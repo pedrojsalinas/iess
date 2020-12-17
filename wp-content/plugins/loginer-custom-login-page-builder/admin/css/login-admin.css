@@ -1,0 +1,63 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.custom-options-settings {
+    margin: 15px auto;
+    background-color: #ffffff;
+    padding: 20px;
+}
+.custom-sub-options-settings {
+    margin-left: 15px;
+}
+.custom-row {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 15px;
+    border-radius: 10px;
+}
+@media(min-width:576px) {
+    .custom-column-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .custom-column-3 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+@media(min-width:768px) {
+    .custom-column-4 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .custom-column-3 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+}
+@media(min-width:992px) {
+    .custom-column-4 {
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+    .custom-column-3 {
+        flex: 0 0 33.33%;
+        max-width: 33.33%;
+    }   
+}
+.custom-options {
+    margin: 7px 0;
+}
+.custom-blocks {
+    border: 1px solid #c7c7c7;
+    margin: 0 15px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.custom-heading-box {
+    width:  100%;    
+    margin-top: 7px;
+}

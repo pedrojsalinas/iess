@@ -1,0 +1,4147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MedicalPress\n"
+"POT-Creation-Date: 2018-10-16 16:04+0500\n"
+"PO-Revision-Date: 2018-10-16 16:29+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:8
+msgid ""
+"Look like something went wrong! The page you were looking for is not here"
+msgstr ""
+"Sieht aus, als wäre etwas schief gelaufen! Die Seite, die Sie gesucht haben, "
+"ist nicht hier"
+
+#: 404.php:9
+msgid "Visit Homepage"
+msgstr "Homepage besuchen"
+
+#: assets/default/partials/blog/blog-index.php:15
+#: assets/default/partials/page/archive.php:27
+#: assets/reborn/partials/common/banner.php:14 inc/functions/basic.php:154
+msgid "Blog"
+msgstr "Blog"
+
+#: assets/default/partials/blog/post/blog-post.php:15
+#: assets/default/partials/blog/single.php:33
+#: assets/reborn/partials/blog/post/blog-post.php:14
+#: assets/reborn/partials/blog/single.php:18
+msgid "0"
+msgstr "0"
+
+#: assets/default/partials/blog/post/blog-post.php:15
+#: assets/default/partials/blog/single.php:33
+#: assets/reborn/partials/blog/post/blog-post.php:14
+#: assets/reborn/partials/blog/single.php:18
+msgid "1"
+msgstr "1"
+
+#: assets/default/partials/blog/post/blog-post.php:15
+#: assets/default/partials/blog/single.php:33
+#: assets/reborn/partials/blog/post/blog-post.php:14
+#: assets/reborn/partials/blog/single.php:18
+#: inc/theme-options/medical-config.php:664
+msgid "%"
+msgstr "%"
+
+#: assets/default/partials/blog/post/blog-post.php:30
+#: assets/default/partials/blog/single.php:51
+#: assets/reborn/partials/blog/post/blog-post.php:29
+#: assets/reborn/partials/blog/single.php:36
+msgid "Posted by"
+msgstr "Veröffentlicht von"
+
+#: assets/default/partials/blog/post/blog-post.php:35
+#: assets/default/partials/blog/single.php:56
+#: assets/default/partials/home/home-blog.php:108
+#: assets/reborn/partials/blog/post/blog-post.php:34
+#: assets/reborn/partials/blog/single.php:41 inc/shortcodes/elements.php:669
+#, php-format
+msgid "View all posts by %s"
+msgstr "Zeige alle Beiträge von %s"
+
+#: assets/default/partials/blog/post/blog-post.php:56
+#: assets/default/partials/blog/post/common-excerpt.php:16
+#: assets/default/partials/home/home-slider.php:4
+#: assets/default/partials/services/services-four-col.php:61
+#: assets/default/partials/services/services-one-col.php:60
+#: assets/default/partials/services/services-three-col.php:62
+#: assets/default/partials/services/services-two-col.php:61
+#: assets/reborn/partials/blog/post/blog-post.php:61
+#: assets/reborn/partials/blog/post/common-excerpt.php:13
+#: assets/reborn/partials/home/home-slider.php:4
+#: inc/shortcodes/elements.php:432 inc/shortcodes/elements.php:679
+#: inc/theme-options/medical-config.php:611
+#: inc/theme-options/medical-config.php:1113
+#: inc/theme-options/medical-config.php:1234
+#: inc/theme-options/medical-config.php:1365
+msgid "Read More"
+msgstr "Weiterlesen"
+
+#: assets/default/partials/common/appoint-form.php:34
+#: assets/default/partials/home/home-slider-form.php:36
+#: assets/default/partials/home/home-slider-form.php:85
+#: assets/default/partials/page/page-make-appointment.php:57
+#: assets/reborn/partials/common/appoint-form.php:18
+#: assets/reborn/partials/page/page-make-appointment.php:20
+#: inc/shortcodes/elements.php:322
+msgid "Name"
+msgstr "Name"
+
+#: assets/default/partials/common/appoint-form.php:34
+#: assets/default/partials/page/page-contact.php:57
+#: assets/default/partials/page/page-make-appointment.php:57
+#: assets/reborn/partials/common/appoint-form.php:18
+#: assets/reborn/partials/page/page-contact.php:12
+#: assets/reborn/partials/page/page-make-appointment.php:20
+#: inc/shortcodes/elements.php:322
+msgid "* Please provide your name"
+msgstr "*Bitte geben Sie Ihren Namen an"
+
+#: assets/default/partials/common/appoint-form.php:37
+#: assets/default/partials/home/home-slider-form.php:39
+#: assets/default/partials/home/home-slider-form.php:88
+#: assets/default/partials/page/page-contact.php:59
+#: assets/default/partials/page/page-make-appointment.php:60
+#: assets/reborn/partials/common/appoint-form.php:26
+#: assets/reborn/partials/page/page-contact.php:14
+#: assets/reborn/partials/page/page-make-appointment.php:23
+#: inc/shortcodes/elements.php:325 inc/theme-options/medical-config.php:1854
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+#: assets/default/partials/common/appoint-form.php:37
+#: assets/default/partials/page/page-contact.php:59
+#: assets/default/partials/page/page-make-appointment.php:60
+#: assets/reborn/partials/common/appoint-form.php:26
+#: assets/reborn/partials/page/page-contact.php:14
+#: assets/reborn/partials/page/page-make-appointment.php:23
+#: inc/shortcodes/elements.php:325
+msgid "* Please provide a valid phone number."
+msgstr "Bitte geben Sie eine gültige Telefonnummer an."
+
+#: assets/default/partials/common/appoint-form.php:41
+#: assets/default/partials/home/home-slider-form.php:42
+#: assets/default/partials/home/home-slider-form.php:91
+#: assets/default/partials/page/page-contact.php:58
+#: assets/default/partials/page/page-make-appointment.php:66
+#: assets/reborn/partials/common/appoint-form.php:21
+#: assets/reborn/partials/page/page-contact.php:13
+#: assets/reborn/partials/page/page-make-appointment.php:29
+#: inc/shortcodes/elements.php:329
+msgid "Email Address"
+msgstr "E-Mail Adresse"
+
+#: assets/default/partials/common/appoint-form.php:41
+#: assets/default/partials/page/page-contact.php:58
+#: assets/default/partials/page/page-make-appointment.php:66
+#: assets/reborn/partials/common/appoint-form.php:21
+#: assets/reborn/partials/page/page-contact.php:13
+#: assets/reborn/partials/page/page-make-appointment.php:29
+#: inc/shortcodes/elements.php:329
+msgid "* Please provide a valid email address"
+msgstr "* Bitte geben Sie eine gültige E-Mail Adresse ein"
+
+#: assets/default/partials/common/appoint-form.php:44
+#: assets/default/partials/home/home-slider-form.php:45
+#: assets/default/partials/home/home-slider-form.php:94
+#: assets/default/partials/page/page-make-appointment.php:69
+#: assets/reborn/partials/common/appoint-form.php:29
+#: assets/reborn/partials/page/page-make-appointment.php:32
+#: inc/shortcodes/elements.php:332
+msgid "Appointment Date"
+msgstr "Termin Datum"
+
+#: assets/default/partials/common/appoint-form.php:44
+#: assets/default/partials/page/page-make-appointment.php:69
+#: assets/reborn/partials/common/appoint-form.php:29
+#: assets/reborn/partials/page/page-make-appointment.php:32
+#: inc/shortcodes/elements.php:332
+msgid "* Please provide appointment date"
+msgstr "* Bitte geben Sie das Datum des Termins an"
+
+#: assets/default/partials/common/appoint-form.php:48
+#: assets/default/partials/home/home-slider-form.php:48
+#: assets/default/partials/page/page-contact.php:62
+#: assets/default/partials/page/page-make-appointment.php:75
+#: assets/reborn/partials/common/appoint-form.php:32
+#: assets/reborn/partials/page/page-contact.php:17
+#: assets/reborn/partials/page/page-make-appointment.php:36
+#: inc/shortcodes/elements.php:336
+msgid "Message"
+msgstr "Nachricht"
+
+#: assets/default/partials/common/appoint-form.php:48
+#: assets/default/partials/page/page-contact.php:62
+#: assets/default/partials/page/page-make-appointment.php:75
+#: assets/reborn/partials/common/appoint-form.php:32
+#: assets/reborn/partials/page/page-contact.php:17
+#: assets/reborn/partials/page/page-make-appointment.php:36
+#: inc/shortcodes/elements.php:336
+msgid "* Please provide your message"
+msgstr "* Bitte geben Sie ihre Nachricht ein"
+
+#: assets/default/partials/common/appoint-form.php:62
+#: assets/default/partials/home/home-slider-form.php:51
+#: assets/default/partials/home/home-slider-form.php:108
+#: inc/shortcodes/elements.php:349
+msgid "SEND"
+msgstr "SENDEN"
+
+#: assets/default/partials/common/appoint-form.php:63
+#: assets/default/partials/home/home-slider-form.php:56
+#: assets/default/partials/home/home-slider-form.php:112
+#: assets/default/partials/page/page-make-appointment.php:92
+#: assets/reborn/partials/common/appoint-form.php:40
+#: assets/reborn/partials/page/page-make-appointment.php:52
+#: inc/shortcodes/elements.php:350
+msgid "Loading..."
+msgstr "Lade..."
+
+#: assets/default/partials/doctor/doctors-common.php:26
+#: assets/reborn/partials/doctor/doctors-common.php:10
+#: inc/post-types/doctor-post-type.php:51
+msgid "All Departments"
+msgstr "Alle Abteilungen"
+
+#: assets/default/partials/doctor/doctors-common.php:155
+#: assets/reborn/partials/doctor/doctors-common.php:90
+#: assets/reborn/partials/doctor/related-doctors.php:60
+#: assets/reborn/partials/doctor/taxonomy-department.php:25
+#: assets/reborn/partials/gallery/gallery-common.php:91
+#: assets/reborn/partials/home/home-doctors.php:95
+msgid "No doctor found !"
+msgstr "Kein Arzt gefunden !"
+
+#: assets/default/partials/doctor/single/single-doctor.php:42
+#: assets/reborn/partials/doctor/single/single-doctor.php:23
+#: inc/meta-box/config-meta-boxes.php:205
+msgid "Speciality"
+msgstr "Spezialität"
+
+#: assets/default/partials/doctor/single/single-doctor.php:47
+#: assets/reborn/partials/doctor/single/single-doctor.php:28
+#: inc/meta-box/config-meta-boxes.php:210
+#: inc/post-types/doctor-post-type.php:89
+msgid "Education"
+msgstr "Ausbildung"
+
+#: assets/default/partials/doctor/single/single-doctor.php:52
+#: assets/reborn/partials/doctor/single/single-doctor.php:33
+#: inc/meta-box/config-meta-boxes.php:215
+msgid "Work Days"
+msgstr "Arbeitstage"
+
+#: assets/default/partials/doctor/taxonomy-department.php:56
+msgid "No doctor found!"
+msgstr "Kein Arzt gefunden!"
+
+#: assets/default/partials/gallery/gallery-common.php:49
+#: assets/reborn/partials/gallery/gallery-common.php:9
+#: inc/functions/basic.php:469 inc/shortcodes/vc-map.php:23
+#: inc/shortcodes/vc-map.php:66
+msgid "All"
+msgstr "Alle"
+
+#: assets/default/partials/gallery/gallery-common.php:143
+#: assets/default/partials/gallery/taxonomy-gallery-item-type.php:64
+#: assets/reborn/partials/gallery/taxonomy-gallery-item-type.php:40
+msgid "No gallery item found!"
+msgstr "Kein Galerieartikel gefunden!"
+
+#: assets/default/partials/header/header.php:46
+#: assets/reborn/partials/header/header-opening-hours.php:4
+#: inc/theme-options/medical-config.php:305
+msgid "Opening Hours"
+msgstr "Öffnungszeiten"
+
+#: assets/default/partials/header/header.php:54
+msgid "Contact"
+msgstr "Kontakt"
+
+#: assets/default/partials/home/home-blog.php:104
+#: inc/shortcodes/elements.php:665
+msgid "by"
+msgstr "von"
+
+#: assets/default/partials/home/home-blog.php:131
+#: assets/reborn/partials/home/home-blog.php:122
+#: inc/shortcodes/elements.php:697
+msgid "No post found !"
+msgstr "Keinen Beitrag gefunden!"
+
+#: assets/default/partials/home/home-doctors.php:125
+#: inc/shortcodes/elements.php:447
+msgid "No Doctors found !"
+msgstr "Keine Ärzte gefunden!"
+
+#: assets/default/partials/home/home-slider-form.php:97
+msgid "Appointment Message"
+msgstr "Terminnachricht"
+
+#: assets/default/partials/home/home-testimonial.php:82
+#: assets/reborn/partials/home/home-testimonial.php:68
+msgid "No testimonial found !"
+msgstr "Kein Testimonial gefunden !"
+
+#: assets/default/partials/page/archive.php:12
+msgid "All Posts in Category:"
+msgstr "Alle Beiträge in der Kategorie:"
+
+#: assets/default/partials/page/archive.php:15
+msgid "All Posts Tagged:"
+msgstr "Alle Beiträge sind mit einem Tag versehen:"
+
+#: assets/default/partials/page/archive.php:18
+#: assets/default/partials/page/archive.php:20
+#: assets/default/partials/page/archive.php:22
+msgid "Archive for"
+msgstr "Archiv für"
+
+#: assets/default/partials/page/archive.php:18
+#: assets/default/partials/page/archive.php:20
+#: assets/default/partials/page/archive.php:22
+#: inc/functions/theme_comment.php:34
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: assets/default/partials/page/archive.php:25
+msgid "All posts by"
+msgstr "Alle Beiträge von"
+
+#: assets/default/partials/page/archive.php:27 inc/functions/basic.php:216
+msgid "Archives"
+msgstr "Archive"
+
+#: assets/default/partials/page/page-contact.php:57
+#: assets/reborn/partials/page/page-contact.php:12
+msgid "Full Name"
+msgstr "Vollständiger Name"
+
+#: assets/default/partials/page/page-contact.php:75
+#: assets/reborn/partials/page/page-contact.php:28
+msgid "Submit"
+msgstr "Senden"
+
+#: assets/default/partials/page/page-contact.php:115
+msgid "Phone :"
+msgstr "Telefon:"
+
+#: assets/default/partials/page/page-contact.php:120
+msgid "Fax :"
+msgstr "Fax:"
+
+#: assets/default/partials/page/page-contact.php:134
+msgid "Social :"
+msgstr "Sozial:"
+
+#: assets/default/partials/page/page-contact.php:149
+#: assets/reborn/partials/page/page-contact.php:68
+msgid ""
+"Google Map API key is missing! in order to show Google Map, please provide "
+"Google Map API key in Theme Options > Contact > Google Map Api Key."
+msgstr ""
+"Der Schlüssel der Google Map API fehlt! Um Google Map anzuzeigen, geben Sie "
+"bitte den Schlüssel der Google Map API in den Themenoptionen > Kontakt > "
+"Google Map Api Key an."
+
+#: assets/default/partials/page/page-contact.php:166
+#: assets/default/partials/page/page-contact.php:190
+#: assets/reborn/partials/page/page-contact.php:84
+#: assets/reborn/partials/page/page-contact.php:107
+msgid "Error: "
+msgstr "Fehler: "
+
+#: assets/default/partials/page/page-faq-fullwidth.php:31
+#: assets/default/partials/page/page-faq.php:34
+#: assets/reborn/partials/page/page-faq-fullwidth.php:9
+#: assets/reborn/partials/page/page-faq.php:9
+msgid "All FAQs"
+msgstr "Alle FAQs"
+
+#: assets/default/partials/page/page-faq-fullwidth.php:115
+#: assets/default/partials/page/page-faq.php:118
+#: assets/reborn/partials/page/page-faq-fullwidth.php:60
+#: assets/reborn/partials/page/page-faq.php:61
+msgid "No FAQ found!"
+msgstr "Keine FAQ gefunden!"
+
+#: assets/default/partials/page/page-make-appointment.php:91
+#: assets/reborn/partials/page/page-make-appointment.php:51
+msgid "Submit Request"
+msgstr "Anfrage senden"
+
+#: assets/default/partials/page/search.php:8
+msgid "Search Results for:"
+msgstr "Suchergebnisse für:"
+
+#: assets/default/partials/services/services-four-col.php:82
+#: assets/default/partials/services/services-one-col.php:67
+#: assets/default/partials/services/services-three-col.php:80
+#: assets/default/partials/services/services-two-col.php:74
+#: assets/reborn/partials/home/home-services.php:100
+#: assets/reborn/partials/services/services-common.php:153
+msgid "No Service found !"
+msgstr "Kein Dienst gefunden !"
+
+#: assets/reborn/partials/blog/blog-index.php:26 loop.php:19
+msgid "No Post Found!"
+msgstr "Beitrag nicht gefunden!"
+
+#: assets/reborn/partials/blog/single.php:47
+msgid "in"
+msgstr "in"
+
+#: assets/reborn/partials/common/appoint-form.php:39
+msgid "Send"
+msgstr "Senden"
+
+#: assets/reborn/partials/common/banner.php:19
+msgid "Page 404"
+msgstr "Fehler 404"
+
+#: assets/reborn/partials/common/banner.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: assets/reborn/partials/common/banner.php:41 inc/functions/basic.php:246
+msgid "Shop"
+msgstr "Shop"
+
+#: assets/reborn/partials/footer/footer-bottom.php:18
+#, php-format
+msgid "Copyright %d. All Rights Reserved by %s"
+msgstr "Copyright %d. Alle Rechte vorbehalten durch %s"
+
+#: assets/reborn/partials/header/header-contact-number.php:4
+#: inc/theme-options/medical-config.php:720
+#: inc/theme-options/medical-config.php:728
+msgid "Make an Appointment"
+msgstr "Senden"
+
+#: assets/reborn/partials/header/header-contact-number.php:17
+msgid "Make a Call"
+msgstr "Einen Anruf tätigen"
+
+#: assets/reborn/partials/header/header-search.php:7
+#: inc/functions/basic.php:238 search-form.php:4
+msgid "Search"
+msgstr "Suche"
+
+#: assets/reborn/partials/page/page-contact.php:49
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: assets/reborn/partials/page/page-contact.php:53
+msgid "Fax:"
+msgstr "Fax:"
+
+#: assets/reborn/partials/page/page-contact.php:57
+msgid "Social:"
+msgstr "Sozial:"
+
+#: assets/reborn/partials/page/page.php:26
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: assets/reborn/partials/page/page.php:32
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: comments.php:14
+msgid "No Comment"
+msgstr "Kein Kommentar"
+
+#: comments.php:14
+msgid "One Comment"
+msgstr "Ein Kommentar"
+
+#: comments.php:14
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: comments.php:34
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: functions.php:82
+msgid "Main Menu"
+msgstr "Hauptmenü"
+
+#: functions.php:105
+msgid "Footer Menu"
+msgstr "Footer Menü"
+
+#: inc/functions/basic.php:210
+msgid "Author"
+msgstr "Autor"
+
+#: inc/functions/basic.php:231
+msgid "404 - Page not Found"
+msgstr "404 - Seite nicht gefunden"
+
+#: inc/functions/contact_form_handler.php:18
+#: inc/functions/contact_form_handler.php:154
+msgid "Unverified Nonce!"
+msgstr "Zur Zeit unbestätigt!"
+
+#: inc/functions/contact_form_handler.php:36
+#: inc/functions/contact_form_handler.php:172
+msgid "Target Email address is not properly configured!"
+msgstr "Ziel-E-Mail-Adresse ist nicht richtig konfiguriert!"
+
+#: inc/functions/contact_form_handler.php:51
+#: inc/functions/contact_form_handler.php:194
+msgid "Provided Email address is invalid!"
+msgstr "Die E-Mailadresse ist ungültig!"
+
+#: inc/functions/contact_form_handler.php:56
+msgid "New message sent by"
+msgstr "Neue Nachricht gesendet von"
+
+#: inc/functions/contact_form_handler.php:56
+msgid "using contact form at"
+msgstr "Nutzung des Kontaktformular auf"
+
+#: inc/functions/contact_form_handler.php:58
+msgid "You have received a message from: "
+msgstr "Sie haben eine Nachricht erhalten von: "
+
+#: inc/functions/contact_form_handler.php:61
+#: inc/functions/contact_form_handler.php:204
+msgid "Phone Number : "
+msgstr "Telefonnummer : "
+
+#: inc/functions/contact_form_handler.php:64
+#: inc/functions/contact_form_handler.php:211
+msgid "Their additional message is as follows."
+msgstr "Die zusätzliche Nachricht lautet wie folgt."
+
+#: inc/functions/contact_form_handler.php:73
+#: inc/functions/contact_form_handler.php:220
+msgid "You can contact "
+msgstr "Sie können uns kontaktieren "
+
+#: inc/functions/contact_form_handler.php:73
+#: inc/functions/contact_form_handler.php:220
+msgid " via email, "
+msgstr " per E-Mail, "
+
+#: inc/functions/contact_form_handler.php:117
+#: inc/functions/contact_form_handler.php:269
+msgid "Message Sent Successfully!"
+msgstr "Nachricht erfolgreich gesendet!"
+
+#: inc/functions/contact_form_handler.php:122
+#: inc/functions/contact_form_handler.php:275
+msgid "Server Error: WordPress mail function failed!"
+msgstr "Serverfehler: Mailversandt fehlgeschlagen!"
+
+#: inc/functions/contact_form_handler.php:130
+#: inc/functions/contact_form_handler.php:282
+msgid "Invalid Request !"
+msgstr "Ungültige Anfrage!"
+
+#: inc/functions/contact_form_handler.php:199
+msgid "New appointment request sent by"
+msgstr "Neue Terminanfrage gesendet von"
+
+#: inc/functions/contact_form_handler.php:199
+msgid "using appointment form at"
+msgstr "via Terminformular auf"
+
+#: inc/functions/contact_form_handler.php:201
+msgid "You have received an appointment request from: "
+msgstr "Sie haben eine Terminanfrage erhalten von: "
+
+#: inc/functions/contact_form_handler.php:208
+msgid "Appointment Date : "
+msgstr "Datum des Termins: "
+
+#: inc/functions/contact_form_handler.php:306
+#, php-format
+msgid "Your appointment request has been received to  %1$s."
+msgstr "Deine Terminanfrage ist bei %1$s eingegangen."
+
+#: inc/functions/contact_form_handler.php:311
+msgid "Dear "
+msgstr "Sehr geehrte(r) "
+
+#: inc/functions/contact_form_handler.php:312
+#, php-format
+msgid ""
+"Thanks for booking your appointment with the %1$s. We will get back to you "
+"soon.</br></br>"
+msgstr ""
+"Vielen Dank für Ihre Terminanfrage bei  %1$s. Wir werden uns bei Ihnen "
+"zwecks Terminabsprache melden.<br /><br />"
+
+#: inc/functions/contact_form_handler.php:313
+msgid "Thank You!"
+msgstr "Vielen Dank!"
+
+#: inc/functions/recaptcha.php:128
+msgid "The secret parameter is missing."
+msgstr "Der geheime Parameter fehlt."
+
+#: inc/functions/recaptcha.php:129
+msgid "The secret parameter is invalid or malformed."
+msgstr "Der geheime Parameter ist ungültig oder fehlerhaft."
+
+#: inc/functions/recaptcha.php:130
+msgid "The response parameter is missing."
+msgstr "Der Antwortparameter fehlt."
+
+#: inc/functions/recaptcha.php:131
+msgid "The response parameter is invalid or malformed."
+msgstr "Der Antwortparameter ist ungültig oder fehlerhaft."
+
+#: inc/functions/recaptcha.php:137
+msgid "reCAPTCHA Failed:"
+msgstr "reCAPTCHA fehlgeschlagen:"
+
+#: inc/functions/sidebar.php:10
+msgid "Default Sidebar"
+msgstr "Standard Sidebar"
+
+#: inc/functions/sidebar.php:11
+msgid ""
+"This sidebar is for blog page, blog posts and pages that use default "
+"template."
+msgstr ""
+"Diese tidebar ist für Blog Pages, Posts und Pages die das default Template "
+"verwenden."
+
+#: inc/functions/sidebar.php:21
+msgid "Service Detail Page"
+msgstr "Service Detail Seite"
+
+#: inc/functions/sidebar.php:22
+msgid "This sidebar is for service detail page."
+msgstr "Diese Seitenleiste ist für die Detailseite des Dienstes."
+
+#: inc/functions/sidebar.php:33
+msgid "Shop Page"
+msgstr "Shop-Seite"
+
+#: inc/functions/sidebar.php:34
+msgid "This sidebar is for WooCommerce shop page."
+msgstr "Diese Seitenleiste ist für die WooCommerce Shop-Seite."
+
+#: inc/functions/sidebar.php:45
+msgid "Footer First Column"
+msgstr "Fußzeile Erste Spalte"
+
+#: inc/functions/sidebar.php:46
+msgid "This represents the 1st column widget area in footer."
+msgstr "Dies stellt den Widget-Bereich der ersten Spalte in der Fußzeile dar."
+
+#: inc/functions/sidebar.php:56
+msgid "Footer Second Column"
+msgstr "Fußzeile zweite Spalte"
+
+#: inc/functions/sidebar.php:57
+msgid "This represents the 2nd column widget area in footer."
+msgstr "Dies stellt den Widget-Bereich der zweiten Spalte in der Fußzeile dar."
+
+#: inc/functions/sidebar.php:67
+msgid "Footer Third Column"
+msgstr "Fußzeile Dritte Spalte"
+
+#: inc/functions/sidebar.php:68
+msgid "This represents the 3rd column widget area in footer."
+msgstr "Dies stellt den Widget-Bereich der dritten Spalte in der Fußzeile dar."
+
+#: inc/functions/sidebar.php:78
+msgid "Footer Fourth Column"
+msgstr "Fußzeile Vierte Spalte Vierte Spalte"
+
+#: inc/functions/sidebar.php:79
+msgid "This represents the 4th column widget area in footer."
+msgstr "Dies stellt den Widget-Bereich der vierten Spalte in der Fußzeile dar."
+
+#: inc/functions/styles.php:120
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "am"
+
+#: inc/functions/styles.php:121
+msgctxt "Droid Serif font: on or off"
+msgid "on"
+msgstr "am"
+
+#: inc/functions/styles.php:133
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "am"
+
+#: inc/functions/theme_comment.php:17
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/functions/theme_comment.php:17
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: inc/functions/theme_comment.php:37
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/meta-box/config-meta-boxes.php:23
+msgid "Video Information"
+msgstr "Video-Informationen"
+
+#: inc/meta-box/config-meta-boxes.php:32
+msgid "Video Embed Code"
+msgstr "Video-Einbettungscode"
+
+#: inc/meta-box/config-meta-boxes.php:33
+msgid ""
+"Provide the video embed code and remove the width and height attributes."
+msgstr ""
+"Geben Sie den Video-Einbettungscode an und entfernen Sie die Attribute "
+"Breite und Höhe."
+
+#: inc/meta-box/config-meta-boxes.php:46
+msgid "Link Information"
+msgstr "Link-Informationen"
+
+#: inc/meta-box/config-meta-boxes.php:55
+msgid "Link Title Text"
+msgstr "Link-Titeltext"
+
+#: inc/meta-box/config-meta-boxes.php:61
+msgid "Link URL"
+msgstr "Link URL"
+
+#: inc/meta-box/config-meta-boxes.php:72 inc/meta-box/config-meta-boxes.php:114
+#: inc/meta-box/config-meta-boxes.php:295
+msgid "Gallery Settings"
+msgstr "Galerie-Einstellungen"
+
+#: inc/meta-box/config-meta-boxes.php:82 inc/meta-box/config-meta-boxes.php:121
+#: inc/meta-box/config-meta-boxes.php:301
+msgid "Gallery Images"
+msgstr "Galeriebilder"
+
+#: inc/meta-box/config-meta-boxes.php:84
+msgid ""
+"An image should have minimum width of 732px and minimum height of 447px "
+"( Bigger size images will be cropped automatically)."
+msgstr ""
+"Ein Bild sollte eine Mindestbreite von 732px und eine Mindesthöhe von 447px "
+"haben (Bilder mit größerer Größe werden automatisch zugeschnitten)."
+
+#: inc/meta-box/config-meta-boxes.php:95
+msgid "Icon Settings"
+msgstr "Icon-Einstellungen"
+
+#: inc/meta-box/config-meta-boxes.php:102
+msgid "Service Icon"
+msgstr "Icon der Dienstleistung"
+
+#: inc/meta-box/config-meta-boxes.php:104
+msgid ""
+"The service icon should have minimum width and height of 64px (Bigger size "
+"icon will be adjusted proportionally)."
+msgstr ""
+"Das Service-Symbol sollte eine Mindestbreite und -höhe von 64px haben (das "
+"Symbol für größere Größen wird proportional angepasst)."
+
+#: inc/meta-box/config-meta-boxes.php:123
+msgid ""
+"An image should have minimum width of 848px and minimum height of 518px "
+"( Bigger size images will be cropped automatically)."
+msgstr ""
+"Ein Bild sollte eine Mindestbreite von 848px und eine Mindesthöhe von 518px "
+"haben (Bilder mit größerer Größe werden automatisch zugeschnitten)."
+
+#: inc/meta-box/config-meta-boxes.php:133
+msgid "Audio Settings"
+msgstr "Audioeinstellungen"
+
+#: inc/meta-box/config-meta-boxes.php:142
+msgid "MP3 Audio File"
+msgstr "MP3 Audio-Datei"
+
+#: inc/meta-box/config-meta-boxes.php:144
+msgid "Upload the MP3 audio file."
+msgstr "Laden Sie die MP3-Audiodatei hoch."
+
+#: inc/meta-box/config-meta-boxes.php:149
+msgid "OGG Audio File"
+msgstr "OGG-Audio-Datei"
+
+#: inc/meta-box/config-meta-boxes.php:151
+msgid "Upload the OGG audio file."
+msgstr "Laden Sie die OGG-Audiodatei hoch."
+
+#: inc/meta-box/config-meta-boxes.php:156
+msgid "Audio Embed Code"
+msgstr "Audio Erbet Code"
+
+#: inc/meta-box/config-meta-boxes.php:157
+msgid ""
+"If you do not have audio files to upload, then you can provide audio embed "
+"code here."
+msgstr ""
+"Wenn Sie keine Audiodateien zum Hochladen haben, können Sie hier Audio-"
+"Einbettungscode bereitstellen."
+
+#: inc/meta-box/config-meta-boxes.php:170
+msgid "Quote Information"
+msgstr "Angebotsinformationen"
+
+#: inc/meta-box/config-meta-boxes.php:179
+msgid "Quote Text"
+msgstr "Text des Zitats"
+
+#: inc/meta-box/config-meta-boxes.php:181
+msgid "Provide quote text here."
+msgstr "Geben Sie hier den Text des Angebots an."
+
+#: inc/meta-box/config-meta-boxes.php:187
+msgid "Quote Author"
+msgstr "Zitat Author"
+
+#: inc/meta-box/config-meta-boxes.php:189
+msgid "Provide quote author name."
+msgstr "Geben Sie den Namen des Autors des Zitats an."
+
+#: inc/meta-box/config-meta-boxes.php:199
+msgid "Doctor Information"
+msgstr "Ärztliche Informationen"
+
+#: inc/meta-box/config-meta-boxes.php:220
+msgid "Intro Text"
+msgstr "Einleitungstext"
+
+#: inc/meta-box/config-meta-boxes.php:221
+msgid ""
+"A short introduction of doctor to display on homepage and multiple doctors "
+"listing places."
+msgstr ""
+"Eine kurze Einführung des Arztes zur Darstellung auf der Homepage und "
+"mehrere Ärzte, die Plätze auflisten."
+
+#: inc/meta-box/config-meta-boxes.php:226
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: inc/meta-box/config-meta-boxes.php:232
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: inc/meta-box/config-meta-boxes.php:237
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+#: inc/meta-box/config-meta-boxes.php:242
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: inc/meta-box/config-meta-boxes.php:247
+msgid "Youtube URL"
+msgstr "YouTube URL"
+
+#: inc/meta-box/config-meta-boxes.php:252
+#: inc/theme-options/medical-config.php:401
+msgid "Skype Username"
+msgstr "Skype-Benutzername"
+
+#: inc/meta-box/config-meta-boxes.php:262
+#: inc/post-types/testimonial-post-type.php:9
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: inc/meta-box/config-meta-boxes.php:268
+msgid "Testimonial Text"
+msgstr "Kundenmeinung"
+
+#: inc/meta-box/config-meta-boxes.php:275
+msgid "Testimonial Author"
+msgstr "Referenz Autor"
+
+#: inc/meta-box/config-meta-boxes.php:280
+msgid "Testimonial Author Organization"
+msgstr "Testimonial Autor Organisation"
+
+#: inc/meta-box/config-meta-boxes.php:285
+msgid "Testimonial Author URL"
+msgstr "Empfehlungsschreiben Autor URL"
+
+#: inc/meta-box/config-meta-boxes.php:303
+msgid ""
+"An image should have minimum width of 670px and minimum height of 500px, "
+"Bigger size images will be cropped automatically."
+msgstr ""
+"Ein Bild sollte eine Mindestbreite von 670px und eine Mindesthöhe von 500px "
+"haben, Bilder in größerer Größe werden automatisch zugeschnitten."
+
+#: inc/meta-box/config-meta-boxes.php:313
+msgid "Banner Settings"
+msgstr "Banner Einstellungen"
+
+#: inc/meta-box/config-meta-boxes.php:319
+msgid "Banner Image"
+msgstr "Banner-Bild"
+
+#: inc/meta-box/config-meta-boxes.php:321
+#: inc/theme-options/medical-config.php:480
+msgid ""
+"Banner image should have minimum width of 2000px and minimum height of 180px."
+msgstr ""
+"Das Bannerbild sollte eine Mindestbreite von 2000px und eine Mindesthöhe von "
+"180px aufweisen."
+
+#: inc/post-types/doctor-post-type.php:8
+#: inc/theme-options/medical-config.php:822
+msgid "Doctors"
+msgstr "Ärzte"
+
+#: inc/post-types/doctor-post-type.php:9
+#: inc/theme-options/medical-config.php:1522
+#: inc/theme-options/medical-config.php:1575
+msgid "Doctor"
+msgstr "Arzt"
+
+#: inc/post-types/doctor-post-type.php:10 inc/post-types/faq-post-type.php:11
+#: inc/post-types/gallery-post-type.php:10
+#: inc/post-types/service-post-type.php:10
+#: inc/post-types/testimonial-post-type.php:10
+msgid "Add New"
+msgstr "Neu hinzufügen"
+
+#: inc/post-types/doctor-post-type.php:11
+msgid "Add New Doctor"
+msgstr "Person erstellen"
+
+#: inc/post-types/doctor-post-type.php:12
+msgid "Edit Doctor"
+msgstr "Arzt Bearbeiten"
+
+#: inc/post-types/doctor-post-type.php:13
+msgid "New Doctor"
+msgstr "Neue Person"
+
+#: inc/post-types/doctor-post-type.php:14
+msgid "View Doctor"
+msgstr "Arzt anzeigen"
+
+#: inc/post-types/doctor-post-type.php:15
+msgid "Search Doctor"
+msgstr "Person suchen"
+
+#: inc/post-types/doctor-post-type.php:16
+msgid "No Doctor found"
+msgstr "Keine Person gefunden"
+
+#: inc/post-types/doctor-post-type.php:17
+msgid "No Doctor found in Trash"
+msgstr "Keine Person im Papierkorb gefunden"
+
+#: inc/post-types/doctor-post-type.php:33
+#: inc/theme-options/medical-config.php:2128
+msgid "doctor"
+msgstr "doctor"
+
+#: inc/post-types/doctor-post-type.php:47
+#: inc/post-types/doctor-post-type.php:48
+msgid "Department"
+msgstr "Abteilung"
+
+#: inc/post-types/doctor-post-type.php:49
+msgid "Search Departments"
+msgstr "Abteilungen durchsuchen"
+
+#: inc/post-types/doctor-post-type.php:50
+msgid "Popular Departments"
+msgstr "Populäre Abteilungen"
+
+#: inc/post-types/doctor-post-type.php:52
+msgid "Parent Department"
+msgstr "Übergeordnete Abteilung"
+
+#: inc/post-types/doctor-post-type.php:53
+msgid "Parent Department:"
+msgstr "Übergeordnete Abteilung:"
+
+#: inc/post-types/doctor-post-type.php:54
+msgid "Edit Department"
+msgstr "Abteilung bearbeiten"
+
+#: inc/post-types/doctor-post-type.php:55
+msgid "Update Department"
+msgstr "Abteilung ändern"
+
+#: inc/post-types/doctor-post-type.php:56
+msgid "Add New Department"
+msgstr "Neue Abteilung hinzufügen"
+
+#: inc/post-types/doctor-post-type.php:57
+msgid "New Department Name"
+msgstr "Neuer Abteilungsname"
+
+#: inc/post-types/doctor-post-type.php:58
+msgid "Separate Departments with commas"
+msgstr "Getrennte Abteilungen mit Kommas"
+
+#: inc/post-types/doctor-post-type.php:59
+msgid "Add or remove Departments"
+msgstr "Abteilungen hinzufügen oder entfernen"
+
+#: inc/post-types/doctor-post-type.php:60
+msgid "Choose from the most used Departments"
+msgstr "Wählen Sie aus den am häufigsten genutzten Abteilungen aus"
+
+#: inc/post-types/doctor-post-type.php:61
+msgid "Departments"
+msgstr "Abteilungen"
+
+#: inc/post-types/doctor-post-type.php:72
+msgid "department"
+msgstr "Abteilung"
+
+#: inc/post-types/doctor-post-type.php:87
+msgid "Doctor Name"
+msgstr "Arzt Name"
+
+#: inc/post-types/doctor-post-type.php:88
+#: inc/post-types/gallery-post-type.php:87
+msgid "Thumbnail"
+msgstr "Vorschaubild"
+
+#: inc/post-types/doctor-post-type.php:90
+msgid "Date"
+msgstr "Datum"
+
+#: inc/post-types/doctor-post-type.php:109
+#: inc/post-types/gallery-post-type.php:109
+msgid "No Thumbnail"
+msgstr "Kein Vorschaubild"
+
+#: inc/post-types/doctor-post-type.php:120
+msgid "NA"
+msgstr "Nicht verfügbar"
+
+#: inc/post-types/faq-post-type.php:9
+msgid "FAQs"
+msgstr "FAQs"
+
+#: inc/post-types/faq-post-type.php:10
+msgid "FAQ"
+msgstr "FAQ"
+
+#: inc/post-types/faq-post-type.php:12
+msgid "Add New FAQ"
+msgstr "Neue FAQ hinzufügen"
+
+#: inc/post-types/faq-post-type.php:13
+msgid "Edit FAQ"
+msgstr "FAQ bearbeiten"
+
+#: inc/post-types/faq-post-type.php:14
+msgid "New FAQ"
+msgstr "Neue FAQ"
+
+#: inc/post-types/faq-post-type.php:15
+msgid "View FAQ"
+msgstr "FAQ anzeigen"
+
+#: inc/post-types/faq-post-type.php:16
+msgid "Search FAQ"
+msgstr "Suche FAQ"
+
+#: inc/post-types/faq-post-type.php:17
+msgid "No FAQs found"
+msgstr "Keine FAQs gefunden"
+
+#: inc/post-types/faq-post-type.php:18
+msgid "No FAQs found in Trash"
+msgstr "Keine FAQs im Papierkorb gefunden"
+
+#: inc/post-types/faq-post-type.php:46 inc/post-types/faq-post-type.php:60
+msgid "FAQ Groups"
+msgstr "FAQ Gruppen"
+
+#: inc/post-types/faq-post-type.php:47
+msgid "FAQ Group"
+msgstr "FAQ Gruppe"
+
+#: inc/post-types/faq-post-type.php:48
+msgid "Search FAQ Groups"
+msgstr "FAQ-Gruppen durchsuchen"
+
+#: inc/post-types/faq-post-type.php:49
+msgid "Popular FAQ Groups"
+msgstr "Beliebte FAQ-Gruppen"
+
+#: inc/post-types/faq-post-type.php:50
+msgid "All FAQ Groups"
+msgstr "Alle FAQ-Gruppen"
+
+#: inc/post-types/faq-post-type.php:51
+msgid "Parent FAQ Group"
+msgstr "Übergeordnete FAQ-Gruppe"
+
+#: inc/post-types/faq-post-type.php:52
+msgid "Parent FAQ Group:"
+msgstr "Übergeordnete FAQ-Gruppe:"
+
+#: inc/post-types/faq-post-type.php:53
+msgid "Edit FAQ Group"
+msgstr "FAQ-Gruppe bearbeiten"
+
+#: inc/post-types/faq-post-type.php:54
+msgid "Update FAQ Group"
+msgstr "Update FAQ Gruppe"
+
+#: inc/post-types/faq-post-type.php:55
+msgid "Add New FAQ Group"
+msgstr "Neue FAQ-Gruppe hinzufügen"
+
+#: inc/post-types/faq-post-type.php:56
+msgid "New FAQ Group Name"
+msgstr "Neuer FAQ-Gruppenname"
+
+#: inc/post-types/faq-post-type.php:57
+msgid "Separate FAQ Groups with commas"
+msgstr "Separate FAQ-Gruppen mit Kommas"
+
+#: inc/post-types/faq-post-type.php:58
+msgid "Add or Remove FAQ Groups"
+msgstr "FAQ-Gruppen hinzufügen oder entfernen"
+
+#: inc/post-types/faq-post-type.php:59
+msgid "Choose from the most used FAQ Groups"
+msgstr "Wählen Sie aus den am häufigsten verwendeten FAQ-Gruppen aus"
+
+#: inc/post-types/faq-post-type.php:71
+msgid "faq-group"
+msgstr "faq-gruppe"
+
+#: inc/post-types/gallery-post-type.php:8
+msgid "Gallery Items"
+msgstr "Galerieelemente"
+
+#: inc/post-types/gallery-post-type.php:9
+#: inc/theme-options/medical-config.php:1633
+msgid "Gallery Item"
+msgstr "Galerie Element"
+
+#: inc/post-types/gallery-post-type.php:11
+msgid "Add New Gallery Item"
+msgstr "Neues Galerie Element hinzufügen"
+
+#: inc/post-types/gallery-post-type.php:12
+msgid "Edit Gallery Item"
+msgstr "Galerie Element bearbeiten"
+
+#: inc/post-types/gallery-post-type.php:13
+msgid "New Gallery Item"
+msgstr "Neues Galerie Element"
+
+#: inc/post-types/gallery-post-type.php:14
+msgid "View Gallery Item"
+msgstr "Galerie Element anzeigen"
+
+#: inc/post-types/gallery-post-type.php:15
+msgid "Search Gallery Items"
+msgstr "Suche nach Galerieartikeln"
+
+#: inc/post-types/gallery-post-type.php:16
+msgid "No Gallery Item found"
+msgstr "Kein Galerieartikel gefunden"
+
+#: inc/post-types/gallery-post-type.php:17
+msgid "No Gallery Item found in Trash"
+msgstr "Kein Galerieelement im Papierkorb gefunden"
+
+#: inc/post-types/gallery-post-type.php:33
+#: inc/theme-options/medical-config.php:2136
+msgid "gallery-item"
+msgstr "Galerie-Artikel"
+
+#: inc/post-types/gallery-post-type.php:47
+#: inc/post-types/gallery-post-type.php:61
+msgid "Gallery Item Types"
+msgstr "Galerie Artikeltypen"
+
+#: inc/post-types/gallery-post-type.php:48
+#: inc/post-types/gallery-post-type.php:88
+msgid "Gallery Item Type"
+msgstr "Galerie Artikeltyp"
+
+#: inc/post-types/gallery-post-type.php:49
+msgid "Search Gallery Item Types"
+msgstr "Suche in der Galerie Artikeltypen"
+
+#: inc/post-types/gallery-post-type.php:50
+msgid "Popular Gallery Item Types"
+msgstr "Beliebte Galerie Artikeltypen"
+
+#: inc/post-types/gallery-post-type.php:51
+msgid "All Gallery Item Types"
+msgstr "Alle Artikeltypen der Galerie"
+
+#: inc/post-types/gallery-post-type.php:52
+msgid "Parent Gallery Item Type"
+msgstr "Übergeordnete Galerie Artikeltyp"
+
+#: inc/post-types/gallery-post-type.php:53
+msgid "Parent Gallery Item Type:"
+msgstr "Artikeltyp der übergeordneten Galerie:"
+
+#: inc/post-types/gallery-post-type.php:54
+msgid "Edit Gallery Item Type"
+msgstr "Artikeltyp der Galerie bearbeiten"
+
+#: inc/post-types/gallery-post-type.php:55
+msgid "Update Gallery Item Type"
+msgstr "Aktualisieren des Artikeltyps der Galerie"
+
+#: inc/post-types/gallery-post-type.php:56
+msgid "Add New Gallery Item Type"
+msgstr "Neuen Galerie-Eintragstyp hinzufügen"
+
+#: inc/post-types/gallery-post-type.php:57
+msgid "New Gallery Item Type Name"
+msgstr "Neue Galerie Artikeltyp Name Name"
+
+#: inc/post-types/gallery-post-type.php:58
+msgid "Separate Gallery Item Types with commas"
+msgstr "Separate Galerie-Elementtypen mit Kommas versehen"
+
+#: inc/post-types/gallery-post-type.php:59
+msgid "Add or Remove Gallery Item Types"
+msgstr "Hinzufügen oder Entfernen von Galerie-Elementtypen"
+
+#: inc/post-types/gallery-post-type.php:60
+msgid "Choose from the most used Gallery Item Types"
+msgstr "Wählen Sie aus den am häufigsten verwendeten Gallery Item Types aus"
+
+#: inc/post-types/gallery-post-type.php:72
+msgid "gallery-item-type"
+msgstr "Galerienartikel-Typ"
+
+#: inc/post-types/gallery-post-type.php:86
+msgid "Gallery Item Title"
+msgstr "Galerieeintrag Titel"
+
+#: inc/post-types/gallery-post-type.php:89
+msgid "Publish Time"
+msgstr "Veröffentlichungszeit"
+
+#: inc/post-types/service-post-type.php:8
+#: inc/theme-options/medical-config.php:827
+#: inc/theme-options/medical-config.php:1673
+msgid "Services"
+msgstr "Dienstleistungen"
+
+#: inc/post-types/service-post-type.php:9
+msgid "Service"
+msgstr "Service"
+
+#: inc/post-types/service-post-type.php:11
+msgid "Add New Service"
+msgstr "Neue Dienstleistung hinzufügen"
+
+#: inc/post-types/service-post-type.php:12
+msgid "Edit Service"
+msgstr "Service bearbeiten"
+
+#: inc/post-types/service-post-type.php:13
+msgid "New Service"
+msgstr "Neue Dienstleistung"
+
+#: inc/post-types/service-post-type.php:14
+msgid "View Service"
+msgstr "Dienstleistung anzeigen"
+
+#: inc/post-types/service-post-type.php:15
+msgid "Search Service"
+msgstr "Dienstleistung suchen"
+
+#: inc/post-types/service-post-type.php:16
+msgid "No Service found"
+msgstr "Kein Dienst gefunden"
+
+#: inc/post-types/service-post-type.php:17
+msgid "No Service found in Trash"
+msgstr "Kein Dienst im Papierkorb gefunden"
+
+#: inc/post-types/service-post-type.php:33
+#: inc/theme-options/medical-config.php:2144
+msgid "service"
+msgstr "Service"
+
+#: inc/post-types/testimonial-post-type.php:8
+#: inc/theme-options/medical-config.php:824
+msgid "Testimonials"
+msgstr "Referenzen"
+
+#: inc/post-types/testimonial-post-type.php:11
+msgid "Add New Testimonial"
+msgstr "Neues Testimonial hinzufügen"
+
+#: inc/post-types/testimonial-post-type.php:12
+msgid "Edit Testimonial"
+msgstr "Referenz bearbeiten"
+
+#: inc/post-types/testimonial-post-type.php:13
+msgid "New Testimonial"
+msgstr "Neues Testimonial"
+
+#: inc/post-types/testimonial-post-type.php:14
+msgid "View Testimonial"
+msgstr "Erfahrungsbericht anzeigen"
+
+#: inc/post-types/testimonial-post-type.php:15
+msgid "Search Testimonial"
+msgstr "Kundenmeinung suchen"
+
+#: inc/post-types/testimonial-post-type.php:16
+msgid "No Testimonial found"
+msgstr "Keine Referenz gefunden"
+
+#: inc/post-types/testimonial-post-type.php:17
+msgid "No Testimonial found in Trash"
+msgstr "Keine Kundenmeinung im Papierkorb gefunden"
+
+#: inc/shortcodes/elements.php:559
+msgid "No Doctors found!"
+msgstr "Keine Ärzte gefunden!"
+
+#: inc/shortcodes/elements.php:562
+#, php-format
+msgid " with ID: %s"
+msgstr " mit ID: %s"
+
+#: inc/shortcodes/elements.php:564
+#, php-format
+msgid " with Name: %s"
+msgstr " mit Name: %s"
+
+#: inc/shortcodes/vc-map.php:13
+msgid "Home News"
+msgstr "Home Neuigkeiten"
+
+#: inc/shortcodes/vc-map.php:14
+msgid "List of News"
+msgstr "Liste der Neuigkeiten"
+
+#: inc/shortcodes/vc-map.php:16 inc/shortcodes/vc-map.php:47
+#: inc/shortcodes/vc-map.php:90
+msgid "Theme"
+msgstr "Theme"
+
+#: inc/shortcodes/vc-map.php:20
+msgid "Number of News"
+msgstr "Anzahl der Neuigkeiten"
+
+#: inc/shortcodes/vc-map.php:44
+msgid "Home Doctors"
+msgstr "Hausärzte"
+
+#: inc/shortcodes/vc-map.php:45
+msgid "List of Doctors"
+msgstr "Liste der Ärzte"
+
+#: inc/shortcodes/vc-map.php:51 inc/theme-options/medical-config.php:1132
+msgid "Number of Columns to Display"
+msgstr "Anzahl der anzuzeigenden Spalten"
+
+#: inc/shortcodes/vc-map.php:63
+msgid "Number of Doctors To Display"
+msgstr "Anzahl der anzuzeigenden Ärzte"
+
+#: inc/shortcodes/vc-map.php:87 inc/theme-options/medical-config.php:686
+msgid "Appointment Form"
+msgstr "Ernennungsformular"
+
+#: inc/shortcodes/vc-map.php:88
+msgid "Appointment Form Shortcode"
+msgstr "Terminformular Shortcode"
+
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Erforderliche Plugins installieren"
+
+#: inc/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Plugins installieren"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installiere Plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Aktualisiere Plugin: %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Es ist ein Fehler mit der Plugin-API aufgetreten."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dieses Theme erfordert das folgende Plugin: %1$s."
+msgstr[1] "Dieses Theme erfordert die folgenden Plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dieses Theme empfiehlt das folgende Plugin: %1$s."
+msgstr[1] "Este tema recomenda os seguintes plug-ins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Das folgende Plugin muss auf die neueste Version aktualisiert werden, um "
+"maximale Kompatibilität mit diesem Theme sicher zu stellen: %1$s."
+msgstr[1] ""
+"Das folgenden Plugins müssen auf die neueste Version aktualisiert werden, um "
+"maximale Kompatibilität mit diesem Theme sicher zu stellen: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Es ist ein Update verfügbar für: %1$s."
+msgstr[1] "Es sind Updates verfügbar für folgende Plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Das folgende erforderliche Plugin ist derzeit inaktiv: %1$s."
+msgstr[1] "Die folgenden erforderlichen Plugins sind derzeit inaktiv: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Das folgende empfohlene Plugin ist derzeit inaktiv: %1$s."
+msgstr[1] "Die folgenden empfohlenen Plugins sind derzeit inaktiv: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Beginne das Plugin zu installieren"
+msgstr[1] "Beginne die Installation der Plugins"
+
+#: inc/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Beginne mit der Aktualisierung des Plugins"
+msgstr[1] "Beginne die Plugins zu aktualisieren"
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Plugin wird aktiviert"
+msgstr[1] "Plugins werden aktiviert"
+
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Zurück zur Installation der benötigten Plugins"
+
+#: inc/tgm/class-tgm-plugin-activation.php:393
+#: inc/tgm/class-tgm-plugin-activation.php:912
+#: inc/tgm/class-tgm-plugin-activation.php:2618
+#: inc/tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Zurück zum Dashboard"
+
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#: inc/tgm/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Plugin erfolgreich aktiviert."
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+#: inc/tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Das folgende Plugin wurde erfolgreich aktiviert:"
+msgstr[1] "Die folgenden Plugins wurden erfolgreich aktiviert:"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Keine Maßnahmen ergriffen. Plugin %1$s war bereits aktiv."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin wurde nicht aktiviert. Eine neuere Version des %s ist für dieses "
+"Theme erforderlich. Bitte aktualisieren Sie das Plugin."
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle Plugins wurden erfolgreich installiert und aktiviert. %1$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Diesen Hinweis ausblenden"
+
+#: inc/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Es existieren ein oder mehrere benötigte oder empfohlene Plugins, die "
+"installiert, aktualisiert oder aktiviert werden müssen."
+
+#: inc/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Bitte kontaktieren Sie den Administrator dieser Website für Hilfe."
+
+#: inc/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Dieses Plugin muss aktualisiert werden, um mit Ihrem Theme kompatibel zu "
+"sein."
+
+#: inc/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Aktualisierung erforderlich"
+
+#: inc/tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Das Remote-Plugin-Paket enthält keinen Ordner mit dem gewünschten Kürzel und "
+"eine Umbenennung hat nicht funktioniert."
+
+#: inc/tgm/class-tgm-plugin-activation.php:1019
+#: inc/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Bitte kontaktieren Sie den Plugin-Anbieter und bitten Sie ihn, seine Plugins "
+"nach den Wordpress-Richtlinien zu komprimieren."
+
+#: inc/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Das Remote-Plugin-Paket besteht aus mehreren Dateien, aber die Dateien sind "
+"nicht in einem Ordner gepackt."
+
+#: inc/tgm/class-tgm-plugin-activation.php:1206
+#: inc/tgm/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "und"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Erforderlich"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Empfohlen"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "Externe Quelle"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "Nicht installiert"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Installiert aber nicht aktiviert"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "Aktiv"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Erforderliche Aktualisierung nicht verfügbar"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "Update erforderlich"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Update empfohlen"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Zum Installieren <span class=\"count\">(%s)</span>"
+msgstr[1] "Zum Installieren <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Aktualisierung verfügbar <span class=\"count\">(%s)</span>"
+msgstr[1] "Aktualisierung verfügbar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Zum Aktivieren <span class=\"count\">(%s)</span>"
+msgstr[1] "Zum Aktivieren <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unbekannt"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Installierte Version:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Minimal erforderliche Version:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Verfügbare Version:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "Keine Plugins zum installieren, aktualisieren oder aktivieren."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Quelle"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "Typ"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Version"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "Status"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Installiere %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Aktualisiere %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Aktiviere %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade-Nachricht vom Plugin-Autor:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Installieren"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Es wurden keine Plugins zur Installation ausgewählt. Es wurde nichts "
+"unternommen."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Es wurden keine Plugins zur Aktualisierung ausgewählt. Es wurde nichts "
+"unternommen."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "Derzeit stehen keine Plugins zur Installation zur Verfügung."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "Derzeit stehen keine Plugins zur Aktualisierung zur Verfügung."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Es wurden keine Plugins zur Aktivierung ausgewählt. Es wurde nichts "
+"unternommen."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "Derzeit stehen keine Plugins zur Aktivierung zur Verfügung."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Plugin-Aktivierung fehlgeschlagen."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualisiere Plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Während der Installation von %1$s: <strong>%2$s</strong> ist ein Fehler "
+"aufgetreten."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Die Installation von %1$s ist fehlgeschlagen."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Der Installations- und Aktivierungsprozess wurde gestartet. Dies kann eine "
+"Weile dauern, haben Sie etwas Geduld."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s erfolgreich installiert und aktiviert."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3594
+#: inc/tgm/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "Details anzeigen"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3594
+#: inc/tgm/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "Details ausblenden"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Alle Installationen und Aktivierungen sind abgeschlossen."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installiere und aktiviere Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Der Installationsprozess wird gestartet. Dieser Prozess kann auf manchen "
+"Servern etwas Zeit in Anspruch nehmen. Bitte haben Sie Geduld."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s wurde erfolgreich installiert."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "Alle Installationen wurden abgeschlossen."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installiere Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/plugins-list.php:16
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: inc/tgm/plugins-list.php:22
+msgid "Meta Box"
+msgstr "Meta Box"
+
+#: inc/tgm/plugins-list.php:28
+msgid "Classic Editor"
+msgstr "Klassischer Editor"
+
+#: inc/theme-options/medical-config.php:171
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr "Anpassen &#8220;%s&#8221;"
+
+#: inc/theme-options/medical-config.php:178
+#: inc/theme-options/medical-config.php:181
+msgid "Current theme preview"
+msgstr "Vorschau des aktuellen Themes"
+
+#: inc/theme-options/medical-config.php:188
+#, php-format
+msgid "By %s"
+msgstr "Von %s"
+
+#: inc/theme-options/medical-config.php:189
+#, php-format
+msgid "Version %s"
+msgstr "Version %s"
+
+#: inc/theme-options/medical-config.php:190
+msgid "Tags"
+msgstr "Schlagwörter"
+
+#: inc/theme-options/medical-config.php:195
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+"Dieses <a href=\"%1$s\">Child Theme</a> benötigt sein Elterntheme, %2$s."
+
+#: inc/theme-options/medical-config.php:195
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr "http://codex.wordpress.org/Child_Themes"
+
+#: inc/theme-options/medical-config.php:224
+msgid "Design Variation"
+msgstr "Designvariante"
+
+#: inc/theme-options/medical-config.php:225
+msgid "This section contains options related to website design variation."
+msgstr ""
+"Dieser Abschnitt enthält Optionen im Zusammenhang mit der Variation des "
+"Website-Design."
+
+#: inc/theme-options/medical-config.php:230
+msgid "Select design variation"
+msgstr "Designvariante auswählen"
+
+#: inc/theme-options/medical-config.php:233
+#: inc/theme-options/medical-config.php:1900
+msgid "Default"
+msgstr "Standard"
+
+#: inc/theme-options/medical-config.php:234
+msgid "Reborn"
+msgstr "Auferstanden"
+
+#: inc/theme-options/medical-config.php:245
+#: inc/theme-options/medical-config.php:2437
+msgid "Header"
+msgstr "Header"
+
+#: inc/theme-options/medical-config.php:246
+msgid "This section contains options related to website header."
+msgstr "Dieser Abschnitt enthält Optionen zur Kopfzeile der Webseite."
+
+#: inc/theme-options/medical-config.php:251
+msgid "Sticky Header?"
+msgstr "Fixierte Kopfzeile?"
+
+#: inc/theme-options/medical-config.php:252
+msgid "Enable or Disable Sticky Header"
+msgstr "Aktivieren oder Deaktivieren fixierte Kopfzeile"
+
+#: inc/theme-options/medical-config.php:254
+#: inc/theme-options/medical-config.php:472
+#: inc/theme-options/medical-config.php:501
+#: inc/theme-options/medical-config.php:2164
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: inc/theme-options/medical-config.php:255
+#: inc/theme-options/medical-config.php:473
+#: inc/theme-options/medical-config.php:502
+#: inc/theme-options/medical-config.php:2165
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: inc/theme-options/medical-config.php:271
+msgid "Top Margin for Main Menu"
+msgstr "Oberer Rand für Hauptmenü"
+
+#: inc/theme-options/medical-config.php:272
+msgid ""
+"You can provide the top margin in pixels for main menu, To make it look well "
+"in the middle of your uploaded logo."
+msgstr ""
+"Sie können den oberen Abstand in Pixel für das Hauptmenü angeben, Damit es "
+"in der Mitte des hochgeladenen Logos gut aussieht."
+
+#: inc/theme-options/medical-config.php:281
+msgid "Header Top Bar"
+msgstr "Header Top Bar"
+
+#: inc/theme-options/medical-config.php:282
+msgid "Do you want to display header top bar ?"
+msgstr "Möchten Sie die oberste Leiste der Überschrift einblenden?"
+
+#: inc/theme-options/medical-config.php:284
+#: inc/theme-options/medical-config.php:316
+#: inc/theme-options/medical-config.php:326
+#: inc/theme-options/medical-config.php:357
+#: inc/theme-options/medical-config.php:565
+#: inc/theme-options/medical-config.php:619
+#: inc/theme-options/medical-config.php:630
+#: inc/theme-options/medical-config.php:642
+#: inc/theme-options/medical-config.php:689
+#: inc/theme-options/medical-config.php:792
+#: inc/theme-options/medical-config.php:1188
+#: inc/theme-options/medical-config.php:1287
+#: inc/theme-options/medical-config.php:1502
+#: inc/theme-options/medical-config.php:1511
+#: inc/theme-options/medical-config.php:1555
+#: inc/theme-options/medical-config.php:1584
+#: inc/theme-options/medical-config.php:1609
+#: inc/theme-options/medical-config.php:1645
+#: inc/theme-options/medical-config.php:1706
+#: inc/theme-options/medical-config.php:1724
+#: inc/theme-options/medical-config.php:1745
+#: inc/theme-options/medical-config.php:1775
+#: inc/theme-options/medical-config.php:1834
+#: inc/theme-options/medical-config.php:1870
+#: inc/theme-options/medical-config.php:1892
+#: inc/theme-options/medical-config.php:2007
+#: inc/theme-options/medical-config.php:2106
+msgid "Display"
+msgstr "Anzeige"
+
+#: inc/theme-options/medical-config.php:285
+#: inc/theme-options/medical-config.php:317
+#: inc/theme-options/medical-config.php:327
+#: inc/theme-options/medical-config.php:358
+#: inc/theme-options/medical-config.php:566
+#: inc/theme-options/medical-config.php:620
+#: inc/theme-options/medical-config.php:631
+#: inc/theme-options/medical-config.php:643
+#: inc/theme-options/medical-config.php:690
+#: inc/theme-options/medical-config.php:793
+#: inc/theme-options/medical-config.php:1189
+#: inc/theme-options/medical-config.php:1288
+#: inc/theme-options/medical-config.php:1503
+#: inc/theme-options/medical-config.php:1512
+#: inc/theme-options/medical-config.php:1556
+#: inc/theme-options/medical-config.php:1585
+#: inc/theme-options/medical-config.php:1610
+#: inc/theme-options/medical-config.php:1646
+#: inc/theme-options/medical-config.php:1707
+#: inc/theme-options/medical-config.php:1725
+#: inc/theme-options/medical-config.php:1746
+#: inc/theme-options/medical-config.php:1776
+#: inc/theme-options/medical-config.php:1835
+#: inc/theme-options/medical-config.php:1871
+#: inc/theme-options/medical-config.php:1893
+#: inc/theme-options/medical-config.php:2008
+#: inc/theme-options/medical-config.php:2107
+msgid "Hide"
+msgstr "Verstecken"
+
+#: inc/theme-options/medical-config.php:290
+msgid "Header Top Text"
+msgstr "Auferstanden"
+
+#: inc/theme-options/medical-config.php:291
+msgid "Provide the text to display in header top bar"
+msgstr ""
+"Geben sie den Text ein der in der Kopfleiste als Überschrift angezeigt wird"
+
+#: inc/theme-options/medical-config.php:297
+msgid "Opening Hours Label"
+msgstr "Öffnungszeiten Etikett"
+
+#: inc/theme-options/medical-config.php:299
+msgid "Provide opening hours label to display in header top bar"
+msgstr ""
+"Geben Sie ein Öffnungszeiten-Label an, das in der oberen Kopfzeile angezeigt "
+"wird"
+
+#: inc/theme-options/medical-config.php:306
+msgid "Example: Monday to Friday - 9am to 5pm"
+msgstr "Beispiel: Montag bis Freitag - 9 bis 17 Uhr"
+
+#: inc/theme-options/medical-config.php:307
+msgid "Provide opening hours information to display in header top bar"
+msgstr ""
+"Geben Sie die Informationen der Öffnungszeiten , die in Kopfleiste  "
+"angezeigt werden sollen an"
+
+#: inc/theme-options/medical-config.php:313
+#: inc/theme-options/medical-config.php:394
+#: inc/theme-options/medical-config.php:1866
+#: inc/theme-options/medical-config.php:2103
+msgid "Social Icons"
+msgstr "Social Icons"
+
+#: inc/theme-options/medical-config.php:314
+msgid "Do you want to display social icons in header top bar?"
+msgstr "Möchten Sie soziale Symbole in der oberen Kopfzeile anzeigen?"
+
+#: inc/theme-options/medical-config.php:323
+msgid "Search Box"
+msgstr "Suchbox"
+
+#: inc/theme-options/medical-config.php:324
+msgid "Do you want to display search box in header top bar?"
+msgstr "Möchten Sie das Suchfeld in der oberen Kopfzeile anzeigen?"
+
+#: inc/theme-options/medical-config.php:333
+msgid "Contact Address"
+msgstr "Kontaktadresse"
+
+#: inc/theme-options/medical-config.php:334
+msgid "Provide your contact address to display in header"
+msgstr "Geben Sie Ihre Kontaktadresse an, die im Header angezeigt wird"
+
+#: inc/theme-options/medical-config.php:340
+msgid "Contact Number Label"
+msgstr "Kontaktnummernschild"
+
+#: inc/theme-options/medical-config.php:342
+msgid "Provide label to display above contact number."
+msgstr "Geben Sie ein Etikett an, das über der Kontaktnummer angezeigt wird."
+
+#: inc/theme-options/medical-config.php:347
+msgid "Contact Number"
+msgstr "Telefon-Nummer"
+
+#: inc/theme-options/medical-config.php:348
+msgid "Provide your contact number to display in header"
+msgstr "Geben Sie Ihre Kontaktnummer an, die in der Kopfzeile angezeigt wird"
+
+#: inc/theme-options/medical-config.php:353
+msgid "WPML Language Switcher Flags"
+msgstr "WPML Sprachumschaltung Flags"
+
+#: inc/theme-options/medical-config.php:354
+msgid "Do you want to display WPML language switcher flags in header top bar ?"
+msgstr "Soll der WPML Sprachumschalter in der Kopfzeile gezeigt werden?"
+
+#: inc/theme-options/medical-config.php:355
+msgid "This option only works if WPML plugin is installed."
+msgstr "Diese Option funktioniert nur, wenn das WPML-Plugin installiert ist."
+
+#: inc/theme-options/medical-config.php:368
+msgid "Site Logo"
+msgstr "Seitenlogo"
+
+#: inc/theme-options/medical-config.php:369
+msgid "This section contains options related to site logo."
+msgstr "Dieser Abschnitt enthält Optionen für das Logo der Website."
+
+#: inc/theme-options/medical-config.php:376
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/theme-options/medical-config.php:377
+msgid ""
+"Upload logo image for your Website. Otherwise site title will be displayed "
+"in place of logo."
+msgstr ""
+"Laden Sie das Logo-Bild für Ihre Website hoch. Andernfalls wird der Titel "
+"der Website anstelle des Logos angezeigt."
+
+#: inc/theme-options/medical-config.php:383
+msgid "Retina Logo"
+msgstr "Retina Logo"
+
+#: inc/theme-options/medical-config.php:384
+msgid ""
+"Upload double size of your default logo image. For example, if your default "
+"logo image size is 200px by 30px, your retina logo image size should be "
+"400px by 60px."
+msgstr ""
+"Laden Sie die doppelte Größe Ihres Standard-Logo-Bildes hoch. Wenn Ihre "
+"Standard-Logo-Bildgröße beispielsweise 200px x 30px beträgt, sollte Ihre "
+"Retina-Logo-Bildgröße 400px x 60px betragen."
+
+#: inc/theme-options/medical-config.php:395
+msgid "This section contains options related to social icons."
+msgstr "Dieser Abschnitt enthält Optionen zu sozialen Symbolen."
+
+#: inc/theme-options/medical-config.php:402
+msgid "Provide skype username to display its icon."
+msgstr "Geben Sie einen Skype-Benutzernamen an, um das Symbol anzuzeigen."
+
+#: inc/theme-options/medical-config.php:408
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/theme-options/medical-config.php:409
+msgid "Provide twitter url to display its icon."
+msgstr "Stellen Sie Twitter URL zur Verfügung, um sein Symbol anzuzeigen."
+
+#: inc/theme-options/medical-config.php:415
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/theme-options/medical-config.php:416
+msgid "Provide facebook url to display its icon."
+msgstr "Geben Sie Facebook-URL an, um das Symbol anzuzeigen."
+
+#: inc/theme-options/medical-config.php:422
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/theme-options/medical-config.php:423
+msgid "Provide google+ url to display its icon."
+msgstr "Geben Sie google+ url an, um sein Symbol anzuzeigen."
+
+#: inc/theme-options/medical-config.php:429
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/theme-options/medical-config.php:430
+msgid "Provide LinkedIn url to display its icon."
+msgstr "Stellen Sie LinkedIn URL zur Verfügung, um sein Symbol anzuzeigen."
+
+#: inc/theme-options/medical-config.php:436
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/theme-options/medical-config.php:437
+msgid "Provide Instagram url to display its icon."
+msgstr "Geben Sie die Instagram URL an, um das Symbol anzuzeigen."
+
+#: inc/theme-options/medical-config.php:443
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/theme-options/medical-config.php:444
+msgid "Provide YouTube url to display its icon."
+msgstr "Stellen Sie die YouTube-URL zur Verfügung, um das Symbol anzuzeigen."
+
+#: inc/theme-options/medical-config.php:450
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/theme-options/medical-config.php:451
+msgid "Provide RSS feed url to display its icon."
+msgstr "Stellen Sie eine RSS-Feed-URL zur Verfügung, um das Symbol anzuzeigen."
+
+#: inc/theme-options/medical-config.php:462
+msgid "Banner"
+msgstr "Banner"
+
+#: inc/theme-options/medical-config.php:463
+msgid "This section contains options related to banner."
+msgstr "Dieser Abschnitt enthält Optionen für Banner."
+
+#: inc/theme-options/medical-config.php:469
+msgid "Display Page Banner?"
+msgstr "Seitenbanner anzeigen?"
+
+#: inc/theme-options/medical-config.php:470
+msgid "Enable or Disable Page Banner"
+msgstr "Seitenbanner aktivieren oder deaktivieren"
+
+#: inc/theme-options/medical-config.php:479
+msgid "Default Banner Image"
+msgstr "Standard Banner Bild"
+
+#: inc/theme-options/medical-config.php:481
+msgid ""
+"Default banner image will be displayed on all the pages where banner image "
+"is not overridden by page specific banner settings."
+msgstr ""
+"Das Standard-Image Banner wird auf allen Seiten angezeigt, auf denen das "
+"Banner-Bild nicht durch seitenspezifische Banner Einstellungen überschrieben "
+"wurde."
+
+#: inc/theme-options/medical-config.php:491
+msgid "Breadcrumb"
+msgstr "Breadcrumb"
+
+#: inc/theme-options/medical-config.php:492
+msgid "This section contains options related to breadcrumbs."
+msgstr "Dieser Abschnitt enthält Optionen zum Thema Semmelbrösel."
+
+#: inc/theme-options/medical-config.php:498
+msgid "Breadcrumb ?"
+msgstr "Brotkrümel?"
+
+#: inc/theme-options/medical-config.php:499
+msgid "Enable or Disable Breadcrumb."
+msgstr "Breadcrumb aktivieren oder deaktivieren."
+
+#: inc/theme-options/medical-config.php:508
+msgid "Doctors Page for Breadcrumbs"
+msgstr "Ärzte-Seite für Brotkrümel"
+
+#: inc/theme-options/medical-config.php:515
+msgid "Services Page for Breadcrumbs"
+msgstr "Services Page für Brotkrümel"
+
+#: inc/theme-options/medical-config.php:522
+msgid "Gallery Page for Breadcrumbs"
+msgstr "Gallery-Seite für Brotkrümel"
+
+#: inc/theme-options/medical-config.php:533
+#: inc/theme-options/medical-config.php:540
+msgid "Quick JavaScript"
+msgstr "Schnelles JavaScript"
+
+#: inc/theme-options/medical-config.php:534
+msgid "This section contains options related to JavaScript."
+msgstr "Dieser Abschnitt enthält Optionen zu JavaScript."
+
+#: inc/theme-options/medical-config.php:541
+msgid "You can paste your JavaScript code here."
+msgstr "Du kannst deinen JavaScript-Code hier einfügen."
+
+#: inc/theme-options/medical-config.php:553
+msgid "Home"
+msgstr "Startseite"
+
+#: inc/theme-options/medical-config.php:555
+msgid "This section contains options related to website homepage."
+msgstr "Dieser Abschnitt enthält Optionen für die Homepage der Website."
+
+#: inc/theme-options/medical-config.php:561
+msgid "Homepage Slider"
+msgstr "Homepage Slider"
+
+#: inc/theme-options/medical-config.php:562
+msgid "Do you want to display slider on homepage ?"
+msgstr "Möchten Sie einen Schieber auf der Homepage angezeigen?"
+
+#: inc/theme-options/medical-config.php:563
+msgid "Image banner will be displayed if slider is disabled"
+msgstr "Wenn der Schieber deaktiviert ist wird der Banner angezeigt"
+
+#: inc/theme-options/medical-config.php:571
+msgid "Slider Type"
+msgstr "Slider Typ"
+
+#: inc/theme-options/medical-config.php:572
+msgid "Select the type of slider that you want to use."
+msgstr "Wählen Sie den Typ des Schieber, den Sie verwenden möchten."
+
+#: inc/theme-options/medical-config.php:574
+msgid "Default Slider"
+msgstr "Standard Slider"
+
+#: inc/theme-options/medical-config.php:575
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: inc/theme-options/medical-config.php:583
+msgid "Revolution Slider Alias"
+msgstr "Alias des Revolution Sliders"
+
+#: inc/theme-options/medical-config.php:584
+msgid "If you want to use revolution slider then provide its alias here."
+msgstr ""
+"Wenn Sie den Revolutions Schieber benutzen wollen, tragen Sie hier den Alias "
+"ein."
+
+#: inc/theme-options/medical-config.php:585
+msgid "For more information consult documentation."
+msgstr "Weitere Informationen finden Sie in der Dokumentation."
+
+#: inc/theme-options/medical-config.php:591
+msgid "Homepage Slider Slides"
+msgstr "Homepage Schieber gleitet"
+
+#: inc/theme-options/medical-config.php:592
+msgid "Add slides for homepage slider."
+msgstr "Hinzufügen von Folien für den Homepage Slider."
+
+#: inc/theme-options/medical-config.php:593
+msgid ""
+"The recommended image size is 2000px by 800px. You can use bigger or smaller "
+"image size but try to keep the width to height ratio 100px to 40px and use "
+"the exactly same size images for all slides."
+msgstr ""
+"Die empfohlene Bildgröße beträgt 2000px x 800px. Sie können eine größere "
+"oder kleinere Bildgröße verwenden, aber versuchen Sie, das Verhältnis von "
+"Breite zu Höhe 100px bis 40px beizubehalten und für alle Folien die exakt "
+"gleiche Bildgröße zu verwenden."
+
+#: inc/theme-options/medical-config.php:600
+msgid "Slide title text"
+msgstr "Text des Dia-Titels"
+
+#: inc/theme-options/medical-config.php:601
+msgid "Slide description text"
+msgstr "Text zur Beschreibung der Folie"
+
+#: inc/theme-options/medical-config.php:602
+msgid "Provide URL for button"
+msgstr "Geben Sie die URL für die Schaltfläche an"
+
+#: inc/theme-options/medical-config.php:609
+#: inc/theme-options/medical-config.php:677
+msgid "Slider Button Text"
+msgstr "Text der Slider-Taste"
+
+#: inc/theme-options/medical-config.php:610
+#: inc/theme-options/medical-config.php:678
+msgid "Add button text to be displayed on each slide."
+msgstr ""
+"Fügen Sie einen Text für die Schaltflächen hinzu, der auf jeder Folie "
+"angezeigt wird."
+
+#: inc/theme-options/medical-config.php:617
+msgid "Plus Sign After Slide Text"
+msgstr "Plus-Zeichen für Folientext"
+
+#: inc/theme-options/medical-config.php:626
+msgid "Slider Text Content Background"
+msgstr "Schieber Text Inhaltsverzeichnis Hintergrund"
+
+#: inc/theme-options/medical-config.php:627
+msgid ""
+"Do you want to display a semi transparent background behind slider text "
+"contents ?"
+msgstr ""
+"Möchten Sie einen halb-transparenten Hintergrund hinter dem Schieber-"
+"Textinhalt anzeigen?"
+
+#: inc/theme-options/medical-config.php:628
+msgid ""
+"This choice depends on the graphics in your slider images as the text might "
+"be hard to read without this background."
+msgstr ""
+"Diese Auswahl hängt von den Graphiken, in ihren Schieber Bildern ab, da der "
+"Text möglicherweise ohne diesen Hintergrund schlecht zu lesen ist."
+
+#: inc/theme-options/medical-config.php:639
+msgid "Announcement"
+msgstr "Ankündigung"
+
+#: inc/theme-options/medical-config.php:640
+msgid "Do you want to display announcement on slider ?"
+msgstr "Möchten Sie die Ansage auf dem Schieberegler anzeigen?"
+
+#: inc/theme-options/medical-config.php:649
+msgid "Announcement Title"
+msgstr "Bekanntmachungstitel"
+
+#: inc/theme-options/medical-config.php:650
+msgid "MedicalPress Health Checkup Round"
+msgstr "MedicalPress Gesundheits-Check-up-Runde"
+
+#: inc/theme-options/medical-config.php:656
+msgid "Discount Amount"
+msgstr "Rabatt-Betrag"
+
+#: inc/theme-options/medical-config.php:657
+msgid "50"
+msgstr "50"
+
+#: inc/theme-options/medical-config.php:663
+msgid "Discount Amount Symbol"
+msgstr "Symbol für den Rabattbetrag"
+
+#: inc/theme-options/medical-config.php:670
+msgid "Discount Text"
+msgstr "Rabatt Text"
+
+#: inc/theme-options/medical-config.php:671
+msgid "Discount"
+msgstr "Rabatt"
+
+#: inc/theme-options/medical-config.php:679
+msgid "AVAIL THIS BENEFIT NOW"
+msgstr "NUTZEN SIE DIESEN VORTEIL JETZT"
+
+#: inc/theme-options/medical-config.php:687
+msgid "Do you want to display appointment form on homepage ?"
+msgstr "Möchten Sie Terminformular auf der Homepage angezeigen?"
+
+#: inc/theme-options/medical-config.php:695
+msgid "Appointment Form Design"
+msgstr "Terminvereinbarung Formular Design"
+
+#: inc/theme-options/medical-config.php:696
+msgid "Select the design variation that you want to use for appointment form."
+msgstr ""
+"Wählen Sie die Design-Varianten die sie für Terminformulare verwenden "
+"möchten."
+
+#: inc/theme-options/medical-config.php:699
+msgid "Horizontal form over slider"
+msgstr "Horizontales Formular über schieber"
+
+#: inc/theme-options/medical-config.php:700
+msgid "Vertical form over slider"
+msgstr "Vertikale Formular über über Schieber"
+
+#: inc/theme-options/medical-config.php:701
+msgid "Separate form below slider"
+msgstr "Separates Formular unter Schieber"
+
+#: inc/theme-options/medical-config.php:709
+msgid "Collapse Appointment Form"
+msgstr "Terminformular zusammenklappen"
+
+#: inc/theme-options/medical-config.php:710
+msgid "Do you want to collapse appointment form by default on homepage ?"
+msgstr ""
+"Möchten Sie das Terminformular standardmäßig auf der Homepage "
+"zusammenklappen?"
+
+#: inc/theme-options/medical-config.php:712
+#: inc/theme-options/medical-config.php:2172
+#: inc/theme-options/medical-config.php:2242
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/theme-options/medical-config.php:713
+#: inc/theme-options/medical-config.php:2173
+#: inc/theme-options/medical-config.php:2243
+msgid "No"
+msgstr "Nein"
+
+#: inc/theme-options/medical-config.php:719
+msgid "Appointment Button Title"
+msgstr "Titel des Terminbuttons"
+
+#: inc/theme-options/medical-config.php:726
+msgid "Appointment Form Title"
+msgstr "Ernennungsformular Titel"
+
+#: inc/theme-options/medical-config.php:733
+msgid "Appointment Form Description Text"
+msgstr "Terminformular Beschreibungstext"
+
+#: inc/theme-options/medical-config.php:742
+msgid "Appointment Form Background Image"
+msgstr "Ernennungsformular Hintergrundbild"
+
+#: inc/theme-options/medical-config.php:743
+msgid ""
+"Upload an image that will be displayed in the background of appointment form."
+msgstr ""
+"Laden Sie ein Bild hoch, das im Hintergrund des Terminformulars angezeigt "
+"wird."
+
+#: inc/theme-options/medical-config.php:748
+msgid "Appointment Email Address"
+msgstr "E-Mail Adresse zur Terminvereibarung"
+
+#: inc/theme-options/medical-config.php:749
+msgid "Provide email address that will receive appointment request messages."
+msgstr ""
+"Geben Sie E-Mail-Adresse, die Terminanfrage-Nachrichten empfangen wird."
+
+#: inc/theme-options/medical-config.php:755
+msgid "Appointment CC Email Address"
+msgstr "Termin CC E-Mail-Adresse"
+
+#: inc/theme-options/medical-config.php:756
+msgid ""
+"You can add multiple comma separated cc email addresses, to get a carbon "
+"copy of appointment form message."
+msgstr ""
+"Sie können mehrere kommagetrennte cc-E-Mail-Adressen hinzufügen, um eine "
+"Kopie der Terminformularnachricht zu erhalten."
+
+#: inc/theme-options/medical-config.php:761
+msgid "Appointment BCC Email Address"
+msgstr "Termin BCC E-Mail-Adresse"
+
+#: inc/theme-options/medical-config.php:762
+msgid ""
+"You can add multiple comma separated bcc email addresses, to get a blind "
+"carbon copy of appointment form message."
+msgstr ""
+"Sie können mehrere kommagetrennte bcc-E-Mail-Adressen hinzufügen, um eine "
+"blinde Kopie der Terminformularnachricht zu erhalten."
+
+#: inc/theme-options/medical-config.php:767
+msgid "Appointment Confirmation Email"
+msgstr "Terminbestätigung E-Mail"
+
+#: inc/theme-options/medical-config.php:782
+msgid "Thank you page for Appointment Form"
+msgstr "Danke-Seite für das Terminierungsformular"
+
+#: inc/theme-options/medical-config.php:788
+msgid "reCAPTCHA in Appointment Form"
+msgstr "reCAPTCHA im Terminkalender"
+
+#: inc/theme-options/medical-config.php:789
+msgid "Do you want to display reCAPTCHA in appointment form ?"
+msgstr "Möchten Sie reCAPTCHA in Terminform anzeigen?"
+
+#: inc/theme-options/medical-config.php:790
+msgid ""
+"reCAPTCHA will not be displayed on 1st variation of appointment form due to "
+"design limitation."
+msgstr ""
+"reCAPTCHA wird bei der 1. Variante des Terminformulars aufgrund von "
+"Designbeschränkungen nicht angezeigt."
+
+#: inc/theme-options/medical-config.php:800
+#: inc/theme-options/medical-config.php:1783
+msgid "reCAPTCHA Requirements"
+msgstr "reCAPTCHA Anforderungen"
+
+#: inc/theme-options/medical-config.php:810
+msgid "Layout Manager"
+msgstr "Layout-Manager"
+
+#: inc/theme-options/medical-config.php:811
+msgid ""
+"Organize Homepage sections, By the order in which you want them to appear."
+msgstr ""
+"Organisieren Sie die Abschnitte der Homepage in der Reihenfolge, in der sie "
+"erscheinen sollen."
+
+#: inc/theme-options/medical-config.php:817
+msgid "Homepage Layout Manager"
+msgstr "Homepage Layout Manager"
+
+#: inc/theme-options/medical-config.php:820
+#: inc/theme-options/medical-config.php:1069
+msgid "Features"
+msgstr "Features"
+
+#: inc/theme-options/medical-config.php:821
+msgid "Content"
+msgstr "Inhalt"
+
+#: inc/theme-options/medical-config.php:823
+msgid "News"
+msgstr "Neuigkeiten"
+
+#: inc/theme-options/medical-config.php:838
+msgid "Home - Features"
+msgstr "Startseite - Funktionen"
+
+#: inc/theme-options/medical-config.php:844
+msgid "Features Title"
+msgstr "Ausstattung Titel"
+
+#: inc/theme-options/medical-config.php:845
+msgid "Provide title to display above features section on homepage."
+msgstr ""
+"Geben Sie Titel, der oben über Eigenschaften in der Homepage angezeigt wird."
+
+#: inc/theme-options/medical-config.php:852
+msgid "Features Description"
+msgstr "Funktionsbeschreibung"
+
+#: inc/theme-options/medical-config.php:853
+msgid ""
+"Provide the text description to display below title in features section on "
+"homepage."
+msgstr ""
+"Geben Sie die Textbeschreibung an, die unter dem Titel im Abschnitt Features "
+"auf der Homepage angezeigt wird."
+
+#: inc/theme-options/medical-config.php:860
+msgid "Features Section Design"
+msgstr "Merkmale Abschnitt Design"
+
+#: inc/theme-options/medical-config.php:861
+msgid ""
+"Select the design variation that you want to use for features on homepage."
+msgstr ""
+"Wählen Sie die Designvariante, die Sie für Eigenschaften auf der Homepage "
+"benutzen wollen."
+
+#: inc/theme-options/medical-config.php:864
+msgid "1st Variation"
+msgstr "1. Variante"
+
+#: inc/theme-options/medical-config.php:865
+msgid "2nd Variation"
+msgstr "2. Variante"
+
+#: inc/theme-options/medical-config.php:866
+msgid "3rd Variation"
+msgstr "3. Variante"
+
+#: inc/theme-options/medical-config.php:876
+#: inc/theme-options/medical-config.php:1195
+#: inc/theme-options/medical-config.php:1616
+msgid "Button Text"
+msgstr "Button Text"
+
+#: inc/theme-options/medical-config.php:877
+msgid "Provide label text for button in 1st variation"
+msgstr ""
+"Beschriftungstext für die Schaltfläche in der 1. Variante bereitstellen"
+
+#: inc/theme-options/medical-config.php:884
+msgid "Target URL for Button"
+msgstr "Ziel-URL für Schaltfläche"
+
+#: inc/theme-options/medical-config.php:885
+msgid "Provide target url for button in 1st variation"
+msgstr "Ziel-URL für Schaltfläche in der 1. Variante"
+
+#: inc/theme-options/medical-config.php:894
+msgid "Note"
+msgstr "Hinweis"
+
+#: inc/theme-options/medical-config.php:903
+msgid "1st Feature Icon Code"
+msgstr "1. Merkmal Symbolcode"
+
+#: inc/theme-options/medical-config.php:904
+#: inc/theme-options/medical-config.php:936
+#: inc/theme-options/medical-config.php:968
+#: inc/theme-options/medical-config.php:1000
+msgid "Provide the Font Awesome icon code"
+msgstr "Geben Sie die Font für den Fantastischen icon Code an"
+
+#: inc/theme-options/medical-config.php:911
+msgid "1st Feature Title"
+msgstr "1. Feature-Titel"
+
+#: inc/theme-options/medical-config.php:918
+msgid "1st Feature URL"
+msgstr "1. Feature URL"
+
+#: inc/theme-options/medical-config.php:919
+#: inc/theme-options/medical-config.php:951
+#: inc/theme-options/medical-config.php:983
+#: inc/theme-options/medical-config.php:1015
+msgid ""
+"If you want to display feature title as link then provide the target URL."
+msgstr ""
+"Wenn Sie den Feature-Titel als Link anzeigen möchten, geben Sie die Ziel-URL "
+"an."
+
+#: inc/theme-options/medical-config.php:925
+msgid "1st Feature Description"
+msgstr "1. Funktions Beschreibung"
+
+#: inc/theme-options/medical-config.php:926
+#: inc/theme-options/medical-config.php:958
+#: inc/theme-options/medical-config.php:990
+#: inc/theme-options/medical-config.php:1022
+msgid "Provide feature description text."
+msgstr "Geben sie die Eigenschaften des Beschreibungstextes an."
+
+#: inc/theme-options/medical-config.php:935
+msgid "2nd Feature Icon Code"
+msgstr "2. Merkmal Symbolcode"
+
+#: inc/theme-options/medical-config.php:943
+msgid "2nd Feature Title"
+msgstr "Titel des zweiten Features"
+
+#: inc/theme-options/medical-config.php:950
+msgid "2nd Feature URL"
+msgstr "URL des zweiten Features"
+
+#: inc/theme-options/medical-config.php:957
+msgid "2nd Feature Description"
+msgstr "2. Feature Beschreibung"
+
+#: inc/theme-options/medical-config.php:967
+msgid "3rd Feature Icon Code"
+msgstr "Symbolcode für das dritte Merkmal"
+
+#: inc/theme-options/medical-config.php:975
+msgid "3rd Feature Title"
+msgstr "Titel des dritten Features"
+
+#: inc/theme-options/medical-config.php:982
+msgid "3rd Feature URL"
+msgstr "URL des dritten Features"
+
+#: inc/theme-options/medical-config.php:989
+msgid "3rd Feature Description"
+msgstr "Beschreibung des dritten Features"
+
+#: inc/theme-options/medical-config.php:999
+msgid "4th Feature Icon Code"
+msgstr "4. Merkmal Symbolcode"
+
+#: inc/theme-options/medical-config.php:1007
+msgid "4th Feature Title"
+msgstr "Titel des vierten Features"
+
+#: inc/theme-options/medical-config.php:1014
+msgid "4th Feature URL"
+msgstr "URL des vierten Features"
+
+#: inc/theme-options/medical-config.php:1021
+msgid "4th Feature Description"
+msgstr "Beschreibung des vierten Features"
+
+#: inc/theme-options/medical-config.php:1031
+msgid "2nd Variation Features"
+msgstr "Merkmale der 2. Variante"
+
+#: inc/theme-options/medical-config.php:1032
+#: inc/theme-options/medical-config.php:1070
+msgid "Feature images should have similar width and height."
+msgstr "Feature-Bilder sollten eine ähnliche Breite und Höhe haben."
+
+#: inc/theme-options/medical-config.php:1039
+#: inc/theme-options/medical-config.php:1058
+#: inc/theme-options/medical-config.php:1077
+msgid "Feature Title"
+msgstr "Titel der Funktion"
+
+#: inc/theme-options/medical-config.php:1040
+#: inc/theme-options/medical-config.php:1059
+#: inc/theme-options/medical-config.php:1078
+msgid "Feature Description"
+msgstr "Feature Beschreibung"
+
+#: inc/theme-options/medical-config.php:1041
+#: inc/theme-options/medical-config.php:1060
+#: inc/theme-options/medical-config.php:1079
+msgid "Feature link if any"
+msgstr "Funktionslink, falls vorhanden"
+
+#: inc/theme-options/medical-config.php:1050
+msgid "3rd Variation Features"
+msgstr "3. Variante Eigenschaften"
+
+#: inc/theme-options/medical-config.php:1051
+msgid "Feature images should have 70px width and 70px height."
+msgstr "Eigenschaft-Bilder sollten 70px x 70px groß sein."
+
+#: inc/theme-options/medical-config.php:1091
+msgid "Home - Doctors"
+msgstr "Startseite - Ärzte"
+
+#: inc/theme-options/medical-config.php:1097
+msgid "Doctors Title"
+msgstr "Titel des Arztes"
+
+#: inc/theme-options/medical-config.php:1098
+msgid "Provide title to display above doctors section on homepage."
+msgstr ""
+"Geben Sie einen Titel für die Anzeige über dem Ärztebereich auf der Homepage."
+
+#: inc/theme-options/medical-config.php:1104
+msgid "Doctors Description"
+msgstr "Beschreibung des Arztes"
+
+#: inc/theme-options/medical-config.php:1105
+msgid ""
+"Provide the text description to display below title in doctors section on "
+"homepage."
+msgstr ""
+"Geben Sie die Textbeschreibung an, die unter dem Titel im Ärztebereich auf "
+"der Homepage angezeigt wird."
+
+#: inc/theme-options/medical-config.php:1111
+msgid "Doctor's Button Text"
+msgstr "Text der Arzttaste"
+
+#: inc/theme-options/medical-config.php:1119
+msgid "Doctors Section Design"
+msgstr "Ärztliche Sektion Design"
+
+#: inc/theme-options/medical-config.php:1120
+msgid ""
+"Select the design variation that you want to use for doctors on homepage."
+msgstr ""
+"Wählen Sie auf der Homepage die Designvariante aus, die Sie für Ärzte "
+"verwenden möchten."
+
+#: inc/theme-options/medical-config.php:1145
+#: inc/theme-options/medical-config.php:1170
+msgid "Number of Doctors to Display"
+msgstr "Anzahl der anzuzeigenden Ärzte"
+
+#: inc/theme-options/medical-config.php:1186
+#: inc/theme-options/medical-config.php:1607
+msgid "Display \"View All Doctor\" Button"
+msgstr "Taste \"Alle Ärzte anzeigen\" anzeigen"
+
+#: inc/theme-options/medical-config.php:1201
+#: inc/theme-options/medical-config.php:1294
+#: inc/theme-options/medical-config.php:1622
+msgid "Button Link"
+msgstr "Button Link"
+
+#: inc/theme-options/medical-config.php:1212
+msgid "Home - Services"
+msgstr "Home - service"
+
+#: inc/theme-options/medical-config.php:1218
+msgid "Services Title"
+msgstr "Service Titel"
+
+#: inc/theme-options/medical-config.php:1219
+msgid "Provide title to display above services section on homepage."
+msgstr ""
+"Geben Sie den Titel  ein, der über dem Berreich Service angezeigt werden "
+"soll."
+
+#: inc/theme-options/medical-config.php:1225
+msgid "Services Description"
+msgstr "Service Beschreibung"
+
+#: inc/theme-options/medical-config.php:1226
+msgid ""
+"Provide the text description to display below title in services section on "
+"homepage."
+msgstr ""
+"Geben Sie den Titel in diesem Abschnitt ein, der Im Servicebereich angezeigt "
+"werden soll."
+
+#: inc/theme-options/medical-config.php:1232
+msgid "Services Button Text"
+msgstr "Text der Service-Taste"
+
+#: inc/theme-options/medical-config.php:1240
+#: inc/theme-options/medical-config.php:1712
+msgid "What to display for services."
+msgstr "Was für Dienstleistungen angezeigt werden sollen."
+
+#: inc/theme-options/medical-config.php:1242
+#: inc/theme-options/medical-config.php:1714
+msgid "Featured Image"
+msgstr "Beitragsbild"
+
+#: inc/theme-options/medical-config.php:1243
+#: inc/theme-options/medical-config.php:1715
+msgid "Icon"
+msgstr "Icon"
+
+#: inc/theme-options/medical-config.php:1249
+msgid "Number of Services to Display"
+msgstr "Anzahl der anzuzeigenden Dienste"
+
+#: inc/theme-options/medical-config.php:1263
+#: inc/theme-options/medical-config.php:1681
+msgid "Number of Words for Excerpts "
+msgstr "Anzahl der Wörter für Auszüge "
+
+#: inc/theme-options/medical-config.php:1285
+msgid "Display \"View All Services\" Button"
+msgstr "Schaltfläche \"Alle Dienste anzeigen\" anzeigen"
+
+#: inc/theme-options/medical-config.php:1305
+msgid "Home - News"
+msgstr "Startseite - Neuigkeiten"
+
+#: inc/theme-options/medical-config.php:1306
+msgid ""
+"All news' posts <strong>must have a Featured Image assigned</strong> "
+"otherwise they will not be shown on homepage."
+msgstr ""
+"Die Beiträge aller Nachrichten <stark>müssen ein Featured Image haben, das </"
+"stark> zugeordnet ist, da sie sonst nicht auf der Homepage angezeigt werden."
+
+#: inc/theme-options/medical-config.php:1312
+msgid "News Title"
+msgstr "News Titel"
+
+#: inc/theme-options/medical-config.php:1313
+msgid "Provide title to display above news section on homepage."
+msgstr ""
+"Geben Sie den Titel in diesem Abschnitt ein, der über News auf der Homepage "
+"angezeigt werden soll."
+
+#: inc/theme-options/medical-config.php:1319
+msgid "News Description"
+msgstr "News Beschreibung"
+
+#: inc/theme-options/medical-config.php:1320
+msgid ""
+"Provide the text description to display below title in news section on "
+"homepage."
+msgstr ""
+"Geben Sie die Textbeschreibung an, um den untenstehenden Titel im News-"
+"Bereich der Homepage anzuzeigen."
+
+#: inc/theme-options/medical-config.php:1326
+msgid "Type of News Posts"
+msgstr "Art der Nachrichtenbeiträge"
+
+#: inc/theme-options/medical-config.php:1327
+msgid "Choose the type of news posts to display on homepage."
+msgstr ""
+"Wählen Sie die Art der Nachrichten, die auf der Homepage angezeigt werden "
+"sollen."
+
+#: inc/theme-options/medical-config.php:1329
+msgid "Recent"
+msgstr "Aktuell"
+
+#: inc/theme-options/medical-config.php:1330
+msgid "Based on Categories"
+msgstr "Basierend auf Kategorien"
+
+#: inc/theme-options/medical-config.php:1331
+msgid "Based on Tags"
+msgstr "Auf Basis von Tags"
+
+#: inc/theme-options/medical-config.php:1332
+msgid "Based on Authors"
+msgstr "Basierend auf Autoren"
+
+#: inc/theme-options/medical-config.php:1341
+msgid "Select Categories"
+msgstr "Kategorien auswählen"
+
+#: inc/theme-options/medical-config.php:1349
+msgid "Select Tags"
+msgstr "Schlagwörter auswählen"
+
+#: inc/theme-options/medical-config.php:1357
+msgid "Select Author"
+msgstr "Wähle Autor"
+
+#: inc/theme-options/medical-config.php:1363
+msgid "News Button Text"
+msgstr "Text der Nachrichtenschaltfläche"
+
+#: inc/theme-options/medical-config.php:1371
+msgid "News Section Design"
+msgstr "Nachrichtenbereich Design"
+
+#: inc/theme-options/medical-config.php:1372
+msgid ""
+"Select the design variation that you want to use for news section on "
+"homepage."
+msgstr ""
+"Wählen Sie die Designvariante aus, die Sie für den News-Bereich auf der "
+"Homepage verwenden möchten."
+
+#: inc/theme-options/medical-config.php:1384
+#: inc/theme-options/medical-config.php:1397
+msgid "Number of News to Display"
+msgstr "Anzahl der anzuzeigenden Nachrichten"
+
+#: inc/theme-options/medical-config.php:1416
+msgid "Home - Testimonials"
+msgstr "Startseite - Erfahrungsberichte"
+
+#: inc/theme-options/medical-config.php:1422
+msgid "Testimonials Section Design"
+msgstr "Erfahrungsberichte Abschnitt Design"
+
+#: inc/theme-options/medical-config.php:1423
+msgid ""
+"Select the design variation that you want to use for testimonials section on "
+"homepage."
+msgstr ""
+"Wählen Sie die Designvariante, die Sie für den Abschnitt Erfahrungsberichte "
+"auf der Homepage verwenden möchten."
+
+#: inc/theme-options/medical-config.php:1435
+msgid "Testimonials Title"
+msgstr "Referenzen Titel"
+
+#: inc/theme-options/medical-config.php:1436
+msgid "Provide the title text to display above testimonials on homepage."
+msgstr ""
+"Geben Sie den Titel in diesem Abschnitt ein, der über Referenzen angezeigt "
+"werden soll."
+
+#: inc/theme-options/medical-config.php:1442
+msgid "Testimonials Description"
+msgstr "Beschreibung Empfehlungen"
+
+#: inc/theme-options/medical-config.php:1443
+msgid ""
+"Provide the text description to display below title in testimonials section "
+"on homepage."
+msgstr ""
+"Geben Sie den Titel in diesem Abschnitt ein, der unter Empfehlungen "
+"angezeigt werden soll."
+
+#: inc/theme-options/medical-config.php:1449
+msgid "Number of Testimonials to Display"
+msgstr "Anzahl der anzuzeigenden Testimonials"
+
+#: inc/theme-options/medical-config.php:1473
+msgid "General"
+msgstr "Allgemein"
+
+#: inc/theme-options/medical-config.php:1475
+msgid "General Options"
+msgstr "Allgemeine Optionen"
+
+#: inc/theme-options/medical-config.php:1476
+msgid "This section contains options related to overall theme."
+msgstr "Dieser Abschnitt enthält Optionen für das gesamte Thema."
+
+#: inc/theme-options/medical-config.php:1481
+msgid "Boxed Layout?"
+msgstr "Boxed Layout?"
+
+#: inc/theme-options/medical-config.php:1482
+msgid "You can enable or disable Boxed Layout for the theme."
+msgstr ""
+"Sie können das Boxed Layout für das Design aktivieren oder deaktivieren."
+
+#: inc/theme-options/medical-config.php:1484
+#: inc/theme-options/medical-config.php:1493
+#: inc/theme-options/medical-config.php:1979
+#: inc/theme-options/medical-config.php:1987
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: inc/theme-options/medical-config.php:1485
+#: inc/theme-options/medical-config.php:1494
+#: inc/theme-options/medical-config.php:1980
+#: inc/theme-options/medical-config.php:1988
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: inc/theme-options/medical-config.php:1490
+msgid "Swipebox Lightbox ?"
+msgstr "Swipebox Leuchtkasten ?"
+
+#: inc/theme-options/medical-config.php:1491
+msgid "You can enable or disable swipebox lightbox for overall site."
+msgstr ""
+"Sie können den Leuchtkasten für die gesamte Website aktivieren oder "
+"deaktivieren."
+
+#: inc/theme-options/medical-config.php:1499
+msgid "Display Doctor Departments"
+msgstr "Anzeigen von Arztabteilungen"
+
+#: inc/theme-options/medical-config.php:1500
+msgid "Do you want to display doctor department on listing page?"
+msgstr "Möchten Sie die Arztabteilung auf der Angebotsseite anzeigen?"
+
+#: inc/theme-options/medical-config.php:1508
+msgid "Display Gallery Categories"
+msgstr "Galeriekategorien anzeigen"
+
+#: inc/theme-options/medical-config.php:1509
+msgid "Do you want to display gallery categories on gallery listing page?"
+msgstr "Möchten Sie Galerienkategorien auf der Galerie-Listungsseite anzeigen?"
+
+#: inc/theme-options/medical-config.php:1524
+msgid "Doctor Listing Page"
+msgstr "Doktor-Listing-Seite"
+
+#: inc/theme-options/medical-config.php:1525
+msgid "This section contains options for doctor listing page."
+msgstr ""
+"Dieser Abschnitt enthält Optionen für die Seite mit der Liste der Ärzte."
+
+#: inc/theme-options/medical-config.php:1530
+msgid "Sort Order"
+msgstr "Sortierreihenfolge"
+
+#: inc/theme-options/medical-config.php:1531
+msgid "Ascending OR Descending."
+msgstr "Aufsteigend ODER Absteigend."
+
+#: inc/theme-options/medical-config.php:1540
+msgid "Sort By"
+msgstr "Sortieren nach"
+
+#: inc/theme-options/medical-config.php:1541
+msgid ""
+"Select the option to sort the doctors by Name, Date Speciality and Education."
+msgstr ""
+"Wählen Sie die Option, um die Ärzte nach Name, Datumsspezialität und "
+"Ausbildung zu sortieren."
+
+#: inc/theme-options/medical-config.php:1552
+msgid "Doctors Thumbnail Hover Effect"
+msgstr "Ärzte Miniaturansicht Hover-Effekt"
+
+#: inc/theme-options/medical-config.php:1553
+msgid "Do you want to display the hover effect on doctors listing templates?"
+msgstr "Möchten Sie den Hover-Effekt auf Vorlagen für Ärztelisten anzeigen?"
+
+#: inc/theme-options/medical-config.php:1565
+#: inc/theme-options/medical-config.php:1567
+msgid "Doctor Detail Page"
+msgstr "Ärzte-Detailseite"
+
+#: inc/theme-options/medical-config.php:1568
+msgid "This section contains options related to doctor detail page."
+msgstr ""
+"Dieser Abschnitt enthält Optionen im Zusammenhang mit der Arztdetailseite."
+
+#: inc/theme-options/medical-config.php:1573
+msgid "Doctor Page Title"
+msgstr "Titel der Arztseite"
+
+#: inc/theme-options/medical-config.php:1574
+msgid "Provide title text to display below image banner on doctor detail page."
+msgstr ""
+"Geben Sie einen Titeltext an, der unter dem Bildbanner auf der "
+"Arztdetailseite angezeigt wird."
+
+#: inc/theme-options/medical-config.php:1581
+#: inc/theme-options/medical-config.php:1594
+msgid "Related Doctors"
+msgstr "Ähnliche Therapeuten"
+
+#: inc/theme-options/medical-config.php:1582
+msgid "Do you want to display related doctors section on doctor detail page ?"
+msgstr ""
+"Möchten Sie den Abschnitt für verwandte Ärzte auf der Arztdetailseite "
+"anzeigen?"
+
+#: inc/theme-options/medical-config.php:1590
+msgid "Related Doctors Title"
+msgstr "Titel der zugehörigen Ärzte"
+
+#: inc/theme-options/medical-config.php:1591
+msgid "Provide the title text to display above related doctors section."
+msgstr ""
+"Geben Sie den Titeltext an damit er im Abschnitt ähnliche Ärzte  angezeigt "
+"wird."
+
+#: inc/theme-options/medical-config.php:1599
+msgid " Related Doctors Description"
+msgstr " Verwandte Doktoren Beschreibung"
+
+#: inc/theme-options/medical-config.php:1600
+msgid ""
+"Provide the text description to display below title in related doctors "
+"section."
+msgstr ""
+"Geben Sie die Textbeschreibung an um den Titel unten in dem entsprechenden "
+"Doktoren Bereich anzuzeigen."
+
+#: inc/theme-options/medical-config.php:1635
+msgid "Gallery Item Detail Page"
+msgstr "Galerie Artikel Detailseite"
+
+#: inc/theme-options/medical-config.php:1636
+msgid "This section contains options related to gallery detail page."
+msgstr ""
+"Dieser Abschnitt enthält Optionen im Bezug auf die Galerie Artikel "
+"Detailseite."
+
+#: inc/theme-options/medical-config.php:1642
+#: inc/theme-options/medical-config.php:1655
+msgid "Related Gallery Items"
+msgstr "Verwandte Galerie Artikel"
+
+#: inc/theme-options/medical-config.php:1643
+msgid ""
+"Do you want to display related gallery items section on gallery detail page ?"
+msgstr ""
+"Wollen Sie verwandte Galerie Kategorien in der Galeriedetailseite anzeigen?"
+
+#: inc/theme-options/medical-config.php:1651
+msgid "Related Gallery Items Title"
+msgstr "Verwandte Galerie Artikel Titel"
+
+#: inc/theme-options/medical-config.php:1652
+msgid "Provide the title text to display above related gallery items section."
+msgstr ""
+"Geben Sie den Titeltext an um oben verknüpfte Galerie Artikel Abschnitt "
+"anzuzeigen."
+
+#: inc/theme-options/medical-config.php:1660
+msgid " Related Gallery Items Description"
+msgstr " Zugehörige Galerieelemente Beschreibung"
+
+#: inc/theme-options/medical-config.php:1661
+msgid ""
+"Provide the text description to display below title in related gallery items "
+"section."
+msgstr ""
+"Geben Sie die Textbeschreibung an um den Titel unten in dem entsprechenden "
+"Artikel Bereich anzuzeigen."
+
+#: inc/theme-options/medical-config.php:1675
+msgid "Services Listing Pages"
+msgstr "Dienstleistungen Auflistungsseiten"
+
+#: inc/theme-options/medical-config.php:1676
+msgid "This section contains options related to Services listing pages."
+msgstr ""
+"Dieser Abschnitt enthält Optionen für die Auflistungsseiten der Dienste."
+
+#: inc/theme-options/medical-config.php:1703
+msgid "Display Services Pagination"
+msgstr "Seitenumbruch der Anzeigedienste"
+
+#: inc/theme-options/medical-config.php:1704
+msgid "Do you want to display pagination on Services listing pages?"
+msgstr "Möchten Sie die Paginierung auf den Services-Listing-Seiten anzeigen?"
+
+#: inc/theme-options/medical-config.php:1721
+msgid "Services Thumbnail Hover Effect"
+msgstr "Dienste Miniaturansicht Hover-Effekt"
+
+#: inc/theme-options/medical-config.php:1722
+msgid "Do you want to display the hover effect on services listing templates?"
+msgstr ""
+"Möchten Sie den Hover-Effekt auf Vorlagen für Services Listings anzeigen?"
+
+#: inc/theme-options/medical-config.php:1735
+msgid "Contact  "
+msgstr "Kontakt "
+
+#: inc/theme-options/medical-config.php:1737
+msgid "This section contains options related to contact page."
+msgstr "Dieser Abschnitt enthält Optionen für die Kontaktseite."
+
+#: inc/theme-options/medical-config.php:1742
+msgid "Contact Form"
+msgstr "Kontaktformular"
+
+#: inc/theme-options/medical-config.php:1743
+msgid "Do you want to display contact form on contact page ?"
+msgstr "Möchten Sie das Kontaktformular auf der Kontaktseite anzeigen?"
+
+#: inc/theme-options/medical-config.php:1751
+msgid "Contact Form Email"
+msgstr "E-Mail Kontaktformular"
+
+#: inc/theme-options/medical-config.php:1752
+msgid ""
+"Provide the email address where you want to receive contact form messages."
+msgstr ""
+"Geben Sie die E-Mail-Adresse an, an die Sie Kontaktformularnachrichten "
+"erhalten möchten."
+
+#: inc/theme-options/medical-config.php:1759
+msgid "Contact CC Email Address"
+msgstr "CC-E-Mail-Adresse kontaktieren"
+
+#: inc/theme-options/medical-config.php:1760
+msgid ""
+"You can add multiple comma separated cc email addresses, to get a carbon "
+"copy of contact form message."
+msgstr ""
+"Sie können mehrere durch Komma getrennte CC E-Mail-Adressen hinzufügen, die "
+"eine Kopie der Kontaktformular-Nachricht erhalten sollen."
+
+#: inc/theme-options/medical-config.php:1765
+msgid "Contact BCC Email Address"
+msgstr "BCC-E-Mail-Adresse kontaktieren"
+
+#: inc/theme-options/medical-config.php:1766
+msgid ""
+"You can add multiple comma separated bcc email addresses, to get a blind "
+"carbon copy of contact form message."
+msgstr ""
+"Sie können mehrere durch Komma getrennte BCC E-Mail-Adressen hinzufügen, die "
+"eine Blindkopie der Kontaktformular-Nachricht erhalten sollen."
+
+#: inc/theme-options/medical-config.php:1771
+msgid "Display reCAPTCHA"
+msgstr "reCAPTCHA anzeigen"
+
+#: inc/theme-options/medical-config.php:1772
+msgid "Do you want to display reCAPTCHA in contact form ?"
+msgstr "Möchten Sie reCAPTCHA im Kontaktformular anzeigen?"
+
+#: inc/theme-options/medical-config.php:1794
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: inc/theme-options/medical-config.php:1795
+msgid "This section contains options related to Google reCAPTCHA."
+msgstr ""
+"Dieser Abschnitt enthält Optionen im Zusammenhang mit Google reCAPTCHA."
+
+#: inc/theme-options/medical-config.php:1803
+msgid "About Google reCAPTCHA"
+msgstr "Über Google reCAPTCHA"
+
+#: inc/theme-options/medical-config.php:1809
+msgid "reCAPTCHA Site key"
+msgstr "reCAPTCHA Seiten-Schlüssel"
+
+#: inc/theme-options/medical-config.php:1814
+msgid "reCAPTCHA Secret key"
+msgstr "reCAPTCHA Geheimschlüssel"
+
+#: inc/theme-options/medical-config.php:1824
+msgid "Contact Details "
+msgstr "Kontaktdaten "
+
+#: inc/theme-options/medical-config.php:1825
+msgid ""
+"This section contains options related to contact details on contact page."
+msgstr ""
+"Dieser Abschnitt enthält Optionen für die Kontaktdaten auf der Kontaktseite."
+
+#: inc/theme-options/medical-config.php:1831
+msgid "Other Contact Details"
+msgstr "Weitere Kontaktdaten"
+
+#: inc/theme-options/medical-config.php:1832
+msgid ""
+"Do you want to display other contact details like address, phone and social "
+"icons on contact page ?"
+msgstr ""
+"Möchten Sie weitere Kontaktdaten wie Adresse, Telefon und soziale Symbole "
+"auf der Kontaktseite anzeigen?"
+
+#: inc/theme-options/medical-config.php:1841
+msgid "Contact Details Title"
+msgstr "Kontaktdaten Titel"
+
+#: inc/theme-options/medical-config.php:1846
+#: inc/theme-options/medical-config.php:2022
+msgid "Address"
+msgstr "Adresse"
+
+#: inc/theme-options/medical-config.php:1847
+msgid "HTML is allowed"
+msgstr "HTML ist zulässig"
+
+#: inc/theme-options/medical-config.php:1860
+msgid "Fax Number"
+msgstr "Faxnummer"
+
+#: inc/theme-options/medical-config.php:1867
+msgid "Do you want to display social icons on contact page ?"
+msgstr "Möchten Sie soziale Symbole auf der Kontaktseite anzeigen?"
+
+#: inc/theme-options/medical-config.php:1868
+msgid ""
+"Social icons settings are provided in social icons section under Header tab."
+msgstr ""
+"Die Einstellungen für soziale Symbole finden Sie im Abschnitt Soziale "
+"Symbole unter der Registerkarte Kopf."
+
+#: inc/theme-options/medical-config.php:1882
+#: inc/theme-options/medical-config.php:1889
+msgid "Google Map"
+msgstr "Google Map"
+
+#: inc/theme-options/medical-config.php:1883
+msgid "This section contains options related to google map on contact page."
+msgstr ""
+"Dieser Abschnitt enthält Optionen in Bezug auf Google Map auf der "
+"Kontaktseite."
+
+#: inc/theme-options/medical-config.php:1890
+msgid "Do you want to display google map on contact page ?"
+msgstr "Möchten Sie Google Map auf der Kontaktseite anzeigen?"
+
+#: inc/theme-options/medical-config.php:1898
+msgid "Google Map Style"
+msgstr "Google Map Style"
+
+#: inc/theme-options/medical-config.php:1901
+msgid "Full Width "
+msgstr "Volle Breite "
+
+#: inc/theme-options/medical-config.php:1909
+msgid "Google Map Title"
+msgstr "Google Map-Titel"
+
+#: inc/theme-options/medical-config.php:1918
+msgid "Google Map Api Key"
+msgstr "Google MAP API Schlüssel"
+
+#: inc/theme-options/medical-config.php:1919
+msgid "It's required."
+msgstr "Es ist erforderlich."
+
+#: inc/theme-options/medical-config.php:1920
+msgid ""
+"Get your Google Map API Key by <a target=\"_blank\" href=\"https://"
+"developers.google.com/maps/documentation/javascript/get-api-key#get-an-api-"
+"key\">clicking here</a>."
+msgstr ""
+"Holen Sie sich Ihren Google Map API-Schlüssel durch <a target=\"_blank\" "
+"href=\"https://developers.google.com/maps/documentation/javascript/get-api-"
+"key#get-an-api-key\">Klicken Sie hier</a>."
+
+#: inc/theme-options/medical-config.php:1926
+msgid "Google Map Latitude"
+msgstr "Google Maps Breitengrad"
+
+#: inc/theme-options/medical-config.php:1933
+msgid "Google Map Longitude"
+msgstr "Google Maps Längengrad"
+
+#: inc/theme-options/medical-config.php:1940
+msgid "Google Map Zoom"
+msgstr "Google Map Vergrößerung"
+
+#: inc/theme-options/medical-config.php:1952
+msgid "GDPR"
+msgstr "GDPR"
+
+#: inc/theme-options/medical-config.php:1953
+msgid "This section contains GDPR related settings."
+msgstr "Dieser Abschnitt enthält GDPR-bezogene Einstellungen."
+
+#: inc/theme-options/medical-config.php:1958
+msgid "GDPR Agreement Checkbox Label"
+msgstr "GDPR-Vereinbarung Kontrollkästchen Etikett"
+
+#: inc/theme-options/medical-config.php:1959
+msgid "GDPR Agreement"
+msgstr "DSGVO Vereinbarung"
+
+#: inc/theme-options/medical-config.php:1964
+msgid "GDPR Agreement Checkbox Text"
+msgstr "Ankreuzfeld Text der GDPR-Vereinbarung"
+
+#: inc/theme-options/medical-config.php:1965
+msgid ""
+"I consent to having this website store my submitted information so they can "
+"respond to my inquiry."
+msgstr ""
+"Ich erkläre mich damit einverstanden, dass diese Website meine eingereichten "
+"Informationen speichert, damit Sie auf meine Anfrage antworten können."
+
+#: inc/theme-options/medical-config.php:1966
+msgid "You can use strong, em and a tags in agreement text."
+msgstr "Du kannst strong, em und a tags im Vereinbarungstext verwenden."
+
+#: inc/theme-options/medical-config.php:1971
+msgid "GDPR Agreement Validation Message"
+msgstr "GDPR-Vereinbarung Validierungsnachricht"
+
+#: inc/theme-options/medical-config.php:1972
+msgid "* Please accept GDPR Agreement"
+msgstr "* Bitte akzeptieren Sie die GDPR-Vereinbarung"
+
+#: inc/theme-options/medical-config.php:1977
+msgid "GDPR checkbox for Contact Form"
+msgstr "GDPR Kontrollkästchen für das Kontaktformular"
+
+#: inc/theme-options/medical-config.php:1985
+msgid "GDPR checkbox for Appointment Form"
+msgstr "GDPR Kontrollkästchen für das Ernennungsformular"
+
+#: inc/theme-options/medical-config.php:1998
+#: inc/theme-options/medical-config.php:2740
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/theme-options/medical-config.php:1999
+msgid "This section contains footer related options."
+msgstr "Dieser Abschnitt enthält Optionen für die Fußzeile."
+
+#: inc/theme-options/medical-config.php:2004
+msgid "Call to Action Section"
+msgstr "'Call to Action' Abschnitt"
+
+#: inc/theme-options/medical-config.php:2005
+msgid "Do you want to display call to action section above footer ?"
+msgstr "Möchten Sie den Aktionsbereich über der Fußzeile anzeigen?"
+
+#: inc/theme-options/medical-config.php:2015
+msgid "Address Section Icon"
+msgstr "Symbol für den Adressbereich"
+
+#: inc/theme-options/medical-config.php:2016
+msgid "Upload icon for address section."
+msgstr "Hochlade-Icon für den Adressbereich."
+
+#: inc/theme-options/medical-config.php:2029
+msgid "Number Section Icon"
+msgstr "Symbol für den Nummernbereich"
+
+#: inc/theme-options/medical-config.php:2030
+msgid "Upload icon for number section."
+msgstr "Hochlade-Icon für den Nummernbereich."
+
+#: inc/theme-options/medical-config.php:2036
+msgid "Number Section Title"
+msgstr "Nummer Abschnittstitel"
+
+#: inc/theme-options/medical-config.php:2042
+msgid "Number"
+msgstr "Nummer"
+
+#: inc/theme-options/medical-config.php:2049
+msgid "Email Section Icon"
+msgstr "Symbol für den E-Mail-Abschnitt"
+
+#: inc/theme-options/medical-config.php:2050
+msgid "Upload icon for email section."
+msgstr "Hochlade-Icon für den E-Mail-Bereich."
+
+#: inc/theme-options/medical-config.php:2056
+msgid "Email Section Title"
+msgstr "Titel des E-Mail-Abschnitts"
+
+#: inc/theme-options/medical-config.php:2062
+msgid "Email"
+msgstr "E-Mail"
+
+#: inc/theme-options/medical-config.php:2070
+msgid "Appointment Section Icon"
+msgstr "Symbol für den Terminbereich"
+
+#: inc/theme-options/medical-config.php:2071
+msgid "Upload icon for appointment section."
+msgstr "Upload-Symbol für den Terminbereich."
+
+#: inc/theme-options/medical-config.php:2077
+msgid "Appointment Section Title"
+msgstr "Titel des Ernennungsabschnitts"
+
+#: inc/theme-options/medical-config.php:2083
+msgid "Appointment Text"
+msgstr "Termintext"
+
+#: inc/theme-options/medical-config.php:2090
+msgid "Appointment Page"
+msgstr "Terminseite"
+
+#: inc/theme-options/medical-config.php:2097
+msgid "Social Nav Title"
+msgstr "Social Nav Titel"
+
+#: inc/theme-options/medical-config.php:2104
+msgid "Do you want to display social icons in footer ?"
+msgstr "Möchten Sie soziale Symbole in der Fußzeile anzeigen?"
+
+#: inc/theme-options/medical-config.php:2112
+msgid "Copyright Text"
+msgstr "Copyright Text"
+
+#: inc/theme-options/medical-config.php:2120
+msgid "URL Slugs"
+msgstr "URL-Slugs"
+
+#: inc/theme-options/medical-config.php:2121
+msgid ""
+"This section contains the slugs for each custom post type options. After "
+"saving the settings, don't forget save the <u>Permalinks Settings</u> again "
+"in <strong>Dashboard &rarr; Settings &rarr; Permalinks</strong> to refresh "
+"slugs of WordPress."
+msgstr ""
+"Dieser Abschnitt enthält die Slugs für jede benutzerdefinierte Post-Typ-"
+"Option. Nachdem Sie die Einstellungen gespeichert haben, vergessen Sie "
+"nicht, die <u>Permalinks-Einstellungen</u> erneut in <stark>Dashboard &rarr; "
+"Einstellungen &rarr; Permalinks</stark> zu speichern, um Schnecken von "
+"WordPress zu aktualisieren."
+
+#: inc/theme-options/medical-config.php:2127
+msgid "Doctor's Slug"
+msgstr "Doktor's Slug"
+
+#: inc/theme-options/medical-config.php:2135
+msgid "Gallery's Slug"
+msgstr "Gallery's Schnecke"
+
+#: inc/theme-options/medical-config.php:2143
+msgid "Service's Slug"
+msgstr "Service's Slug"
+
+#: inc/theme-options/medical-config.php:2154
+msgid "Styling"
+msgstr "Styling"
+
+#: inc/theme-options/medical-config.php:2156
+msgid "This section contains styles related options."
+msgstr "Dieser Abschnitt enthält stilbezogene Optionen."
+
+#: inc/theme-options/medical-config.php:2161
+msgid "Animation?"
+msgstr "Animation?"
+
+#: inc/theme-options/medical-config.php:2162
+msgid "Enable or Disable CSS3 animation on various components"
+msgstr ""
+"Aktivieren oder Deaktivieren der CSS3-Animation für verschiedene Komponenten"
+
+#: inc/theme-options/medical-config.php:2170
+msgid "Do you want to change fonts?"
+msgstr "Möchten Sie die Schriftart ändern?"
+
+#: inc/theme-options/medical-config.php:2178
+msgid "Heading Font"
+msgstr "Kopfzeile Schriftart"
+
+#: inc/theme-options/medical-config.php:2179
+msgid "Specify the font for headings."
+msgstr "Geben Sie die Schriftart für Überschriften an."
+
+#: inc/theme-options/medical-config.php:2180
+#: inc/theme-options/medical-config.php:2200
+msgid "Raleway is default font."
+msgstr "Raleway ist eine Standardschriftart."
+
+#: inc/theme-options/medical-config.php:2198
+msgid "Text Font"
+msgstr "Schrift Text"
+
+#: inc/theme-options/medical-config.php:2199
+msgid "Specify the font for body text."
+msgstr "Geben Sie die Schriftart für den Fließtext an."
+
+#: inc/theme-options/medical-config.php:2218
+msgid "Testimonials Text Font"
+msgstr "Testimonials Text Schriftart"
+
+#: inc/theme-options/medical-config.php:2219
+msgid "Specify the font for testimonials and quotes text."
+msgstr "Geben Sie die Schriftart für Testimonials und Zitattexte an."
+
+#: inc/theme-options/medical-config.php:2220
+msgid "Droid Serif is default font."
+msgstr "Droid Serif ist eine Standardschriftart."
+
+#: inc/theme-options/medical-config.php:2240
+msgid "Do you want to change Theme Styling?"
+msgstr "Möchten Sie das Design des Themas ändern?"
+
+#: inc/theme-options/medical-config.php:2249
+msgid "Body Background"
+msgstr "Body Hintergrund"
+
+#: inc/theme-options/medical-config.php:2250
+msgid "Configure body background of your choice. (default:#f0f5f7)"
+msgstr "Konfiguriere den Körperhintergrund deiner Wahl. (Standard:#f0f5f5f7)"
+
+#: inc/theme-options/medical-config.php:2258
+msgid "Overall Theme Color One"
+msgstr "Gesamtthema Farbe Eins"
+
+#: inc/theme-options/medical-config.php:2268
+msgid "Overall Theme Color Two"
+msgstr "Gesamtthema Farbe Zwei"
+
+#: inc/theme-options/medical-config.php:2279
+msgid "Heading Color"
+msgstr "Überschrift Farbe"
+
+#: inc/theme-options/medical-config.php:2280
+msgid "Color for h1, h2, h3, h4, h5 and h6 tags"
+msgstr "Farbe für h1, h2, h3, h4, h5 und h6 Tags"
+
+#: inc/theme-options/medical-config.php:2291
+msgid "Text Color"
+msgstr "Textfarbe"
+
+#: inc/theme-options/medical-config.php:2300
+msgid "Link Color"
+msgstr "Linkfarbe"
+
+#: inc/theme-options/medical-config.php:2311
+msgid "Default Button Background Color"
+msgstr "Standardbutton Hintergrundfarbe"
+
+#: inc/theme-options/medical-config.php:2322
+msgid "Default Button Text Color"
+msgstr "Standard-Tastentextfarbe"
+
+#: inc/theme-options/medical-config.php:2333
+msgid "Read More Button Background Color"
+msgstr "Weiterlesen-Button Hintergrundfarbe"
+
+#: inc/theme-options/medical-config.php:2344
+msgid "Read More Button Text Color"
+msgstr "Mehr Informationen zur Textfarbe der Schaltfläche"
+
+#: inc/theme-options/medical-config.php:2356
+msgid "Appointment Form Heading Background"
+msgstr "Ernennungsformular Überschrift Hintergrund"
+
+#: inc/theme-options/medical-config.php:2368
+msgid "Appointment Form Background"
+msgstr "Ernennungsformular Hintergrund"
+
+#: inc/theme-options/medical-config.php:2378
+msgid "Appointment Form Calender Hover"
+msgstr "Terminformular Kalender Hover"
+
+#: inc/theme-options/medical-config.php:2391
+msgid "Banner Overlay Background Color"
+msgstr "Bannerüberlagerung Hintergrundfarbe"
+
+#: inc/theme-options/medical-config.php:2402
+msgid "Banner Title Color"
+msgstr "Farbe des Banner-Titels"
+
+#: inc/theme-options/medical-config.php:2413
+msgid "Breadcrumb Color"
+msgstr "Breadcrumb Farbe"
+
+#: inc/theme-options/medical-config.php:2424
+msgid "Breadcrumb Link Hover Color"
+msgstr "Breadcrumb Link Hover Farbe"
+
+#: inc/theme-options/medical-config.php:2439
+msgid "This section contains styling options for header"
+msgstr "Dieser Abschnitt enthält Styling-Optionen für die Kopfzeile"
+
+#: inc/theme-options/medical-config.php:2446
+msgid "Header Styling"
+msgstr "Kopfzeilen Styling"
+
+#: inc/theme-options/medical-config.php:2455
+msgid "Header Top Bar Background"
+msgstr "Kopfleiste Obere Leiste Hintergrund"
+
+#: inc/theme-options/medical-config.php:2465
+msgid "Header Top Bar Text Color"
+msgstr "Header Top Bar Textfarbe"
+
+#: inc/theme-options/medical-config.php:2476
+msgid "Header Top Bar Text Highlight Color"
+msgstr "Kopfzeile Obere Leiste Text Hervorhebung Farbe"
+
+#: inc/theme-options/medical-config.php:2487
+msgid "Header Background Color"
+msgstr "Header Hintergrundfarbe"
+
+#: inc/theme-options/medical-config.php:2497
+msgid "Main Navigation Text Color"
+msgstr "Farbe des Textes der Hauptnavigation"
+
+#: inc/theme-options/medical-config.php:2508
+msgid "Main Navigation Hover Background Color"
+msgstr "Hauptnavigation Hover Hintergrundfarbe"
+
+#: inc/theme-options/medical-config.php:2519
+msgid "Main Navigation Hover Text Color"
+msgstr "Hauptnavigation Hover Textfarbe"
+
+#: inc/theme-options/medical-config.php:2530
+msgid "Main Navigation Drop Down Hover Background Color"
+msgstr "Hauptnavigation Dropdown-Hover-Hintergrundfarbe"
+
+#: inc/theme-options/medical-config.php:2540
+msgid "Main Navigation Drop Down Border Color"
+msgstr "Hauptnavigation Dropdown-Liste Rahmenfarbe"
+
+#: inc/theme-options/medical-config.php:2554
+msgid "Responsive Menu Text Color"
+msgstr "Farbe des Textes für das Reaktionsmenü"
+
+#: inc/theme-options/medical-config.php:2563
+msgid "Responsive Menu Bar Background"
+msgstr "Hintergrund der reagierenden Menüleiste"
+
+#: inc/theme-options/medical-config.php:2575
+msgid "Responsive Menu Overall Background"
+msgstr "Reaktionsfähiges Menü Gesamthintergrund"
+
+#: inc/theme-options/medical-config.php:2587
+msgid "Responsive Menu Border Color"
+msgstr "Reaktionsfähige Menüumrandung Farbe"
+
+#: inc/theme-options/medical-config.php:2597
+msgid "Page Top Area Background Color"
+msgstr "Seite Oberer Bereich Hintergrundfarbe"
+
+#: inc/theme-options/medical-config.php:2598
+msgid "Page top area exists below banner image and above page contents."
+msgstr ""
+"Der obere Bereich der Seite existiert unter dem Bannerbild und über dem "
+"Seiteninhalt."
+
+#: inc/theme-options/medical-config.php:2610
+msgid "Header Top Border Bottom Color"
+msgstr "Kopfleiste Oberer Rand Untere Farbe"
+
+#: inc/theme-options/medical-config.php:2620
+msgid "Header Text Color"
+msgstr "Textfarbe für die Kopfzeile"
+
+#: inc/theme-options/medical-config.php:2631
+msgid "Header Highlight Text Color"
+msgstr "Kopfzeile Highlight Textfarbe"
+
+#: inc/theme-options/medical-config.php:2642
+msgid "Header Contact Number Text Color"
+msgstr "Kopf Kontaktnummer Textfarbe"
+
+#: inc/theme-options/medical-config.php:2655
+msgid "Main Menu Text Color"
+msgstr "Textfarbe des Hauptmenüs"
+
+#: inc/theme-options/medical-config.php:2667
+msgid "Main Menu Active Text Color"
+msgstr "Hauptmenü Aktiv Textfarbe"
+
+#: inc/theme-options/medical-config.php:2679
+msgid "Main Menu Hover Text Color"
+msgstr "Hauptmenü Hover Textfarbe"
+
+#: inc/theme-options/medical-config.php:2691
+msgid "Main Menu Hover Background Color"
+msgstr "Hauptmenü Hover Hintergrundfarbe"
+
+#: inc/theme-options/medical-config.php:2703
+msgid "Sub Menu Item Hover Background Color"
+msgstr "Untermenüpunkt Hover Hintergrundfarbe"
+
+#: inc/theme-options/medical-config.php:2715
+msgid "Appointment Button Background Color"
+msgstr "Termin Button Hintergrund Farbe"
+
+#: inc/theme-options/medical-config.php:2727
+msgid "Appointment Button Hover Background Color"
+msgstr "Terminschaltfläche Heben Sie den Mauszeiger über die Hintergrundfarbe"
+
+#: inc/theme-options/medical-config.php:2742
+msgid "This section contains styling options for footer"
+msgstr "Dieser Abschnitt enthält Styling-Optionen für die Fußzeile"
+
+#: inc/theme-options/medical-config.php:2749
+msgid "Footer Styling"
+msgstr "Footerstil"
+
+#: inc/theme-options/medical-config.php:2757
+msgid "Call to Action Gradient Color One"
+msgstr "Aufruf zur Aktion Farbverlauf Farbe Eins"
+
+#: inc/theme-options/medical-config.php:2766
+msgid "Call to Action Gradient Color Two"
+msgstr "Aufruf zur Aktion Gradientenfarbe Zwei"
+
+#: inc/theme-options/medical-config.php:2778
+msgid "Call to Action Text Color"
+msgstr "Aufruf zur Aktion Textfarbe"
+
+#: inc/theme-options/medical-config.php:2790
+msgid "Call to Action Link Hover Color"
+msgstr "Aufruf zur Aktion Link Hover Farbe"
+
+#: inc/theme-options/medical-config.php:2800
+msgid "Footer Background Color"
+msgstr "Footer Hintergrundfarbe"
+
+#: inc/theme-options/medical-config.php:2811
+msgid "Footer Text Color"
+msgstr "Footer Textfarbe"
+
+#: inc/theme-options/medical-config.php:2820
+msgid "Footer Link Color"
+msgstr "Footer Linkfarbe"
+
+#: inc/theme-options/medical-config.php:2833
+msgid "Footer Widget Title Color"
+msgstr "Fußzeile Widget Titelfarbe"
+
+#: inc/theme-options/medical-config.php:2844
+msgid "Footer Bottom Background Color"
+msgstr "Fußzeile Hintergrundfarbe (unterer Bereich)"
+
+#: inc/theme-options/medical-config.php:2854
+msgid "Footer Bottom Text Color"
+msgstr "Fußzeile (Unten) Textfarbe"
+
+#: inc/theme-options/medical-config.php:2864
+msgid "Borders Color in Footer"
+msgstr "Rahmen Farbe in der Fußzeile"
+
+#: inc/theme-options/medical-config.php:2875
+msgid "Footer Copyright Text Color"
+msgstr "Farbe für den Copyright-Text im Footer"
+
+#: inc/theme-options/medical-config.php:2889
+#: inc/theme-options/medical-config.php:2896
+msgid "Quick CSS"
+msgstr "Schnelles CSS"
+
+#: inc/theme-options/medical-config.php:2890
+msgid ""
+"This section contains options related to css. If you need to change major "
+"portions of the theme please use the custom.css file in css folder. In case "
+"you are using child theme then please use child-custom.css file in child "
+"theme."
+msgstr ""
+"Dieser Abschnitt enthält Optionen zu css. Wenn Sie größere Teile des Themas "
+"ändern müssen, verwenden Sie bitte die Datei custom.css im Ordner css. Wenn "
+"Sie ein Kindsthema verwenden, verwenden Sie bitte die Datei child-custom.css "
+"im Kindsthema."
+
+#: inc/theme-options/medical-config.php:2897
+msgid ""
+"Just want to do some quick CSS changes? Enter them here, they will be "
+"applied to the theme."
+msgstr ""
+"Möchten Sie einfach nur ein paar schnelle CSS-Änderungen vornehmen? Geben "
+"Sie sie hier ein, sie werden auf das Thema angewendet."
+
+#: inc/theme-options/medical-config.php:2908
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: inc/theme-options/medical-config.php:2919
+msgid "Theme Information 1"
+msgstr "Theme Information 1"
+
+#: inc/theme-options/medical-config.php:2920
+#: inc/theme-options/medical-config.php:2926
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr "<p>Dies ist der Inhalt für den Tab. HTML ist erlaubt.</p>"
+
+#: inc/theme-options/medical-config.php:2925
+msgid "Theme Information 2"
+msgstr "Theme Information 2"
+
+#: inc/theme-options/medical-config.php:2930
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr "<p>Dies ist der Inhalt der Sidebar. HTML ist erlaubt.</p>"
+
+#: inc/widgets/blog-posts-widget.php:9
+msgid "Displays popular or recent blog posts."
+msgstr "Zeigt beliebte oder aktuelle Blog-Einträge an."
+
+#: inc/widgets/blog-posts-widget.php:11
+msgid "MedicalPress - Blog Posts"
+msgstr "MedicalPress - Blog Beiträge"
+
+#: inc/widgets/blog-posts-widget.php:16
+msgid "Popular Blog Posts"
+msgstr "Beliebte Blog Beiträge"
+
+#: inc/widgets/blog-posts-widget.php:72
+#, php-format
+msgctxt "author byline"
+msgid "<span>by</span> %s"
+msgstr "<span>by</span> %s"
+
+#: inc/widgets/blog-posts-widget.php:86 inc/widgets/blog-posts-widget.php:118
+msgid "Checkout all Posts"
+msgstr "Alle Beiträge auschecken"
+
+#: inc/widgets/blog-posts-widget.php:122
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/widgets/blog-posts-widget.php:128
+msgid "Number of Posts to Display:"
+msgstr "Anzahl der anzuzeigenden Beiträge:"
+
+#: inc/widgets/blog-posts-widget.php:134
+msgid "Sort By:"
+msgstr "Sortieren nach:"
+
+#: inc/widgets/blog-posts-widget.php:137 inc/widgets/tabs-widget.php:157
+msgid "Popular"
+msgstr "Beliebt"
+
+#: inc/widgets/blog-posts-widget.php:138
+msgid "Most Recent"
+msgstr "Neueste"
+
+#: inc/widgets/blog-posts-widget.php:144
+msgid "Display blog link?"
+msgstr "Blog-Link anzeigen?"
+
+#: inc/widgets/blog-posts-widget.php:149
+msgid "Blog Link Text:"
+msgstr "Blog Link Text:"
+
+#: inc/widgets/tabs-widget.php:7
+msgid "This widget displays popular posts, recent posts and recent comments."
+msgstr ""
+"Dieses Widget zeigt beliebte Beiträge, aktuelle Beiträge und aktuelle "
+"Kommentare an."
+
+#: inc/widgets/tabs-widget.php:8
+msgid "MedicalPress - Tabs"
+msgstr "MedicalPress - Tabs"
+
+#: inc/widgets/tabs-widget.php:81
+#, php-format
+msgctxt "widgets"
+msgid " <h6>%2$s</h6>"
+msgstr " <h6>%2$s</h6>"
+
+#: inc/widgets/tabs-widget.php:158
+msgid "Latest"
+msgstr "Neueste"
+
+#: inc/widgets/tabs-widget.php:159 inc/widgets/tabs-widget.php:193
+#: inc/widgets/tabs-widget.php:201 inc/widgets/tabs-widget.php:209
+msgid "Comments"
+msgstr "Kommentare"
+
+#: inc/widgets/tabs-widget.php:177
+msgid "First Tab Title"
+msgstr "Erster Tab-Titel"
+
+#: inc/widgets/tabs-widget.php:181
+msgid "Second Tab Title"
+msgstr "Zweiter Tab-Titel"
+
+#: inc/widgets/tabs-widget.php:185
+msgid "Third Tab Title"
+msgstr "Titel der dritten Registerkarte"
+
+#: inc/widgets/tabs-widget.php:189
+msgid "First Tab Content"
+msgstr "Inhalt der ersten Registerkarte"
+
+#: inc/widgets/tabs-widget.php:191 inc/widgets/tabs-widget.php:199
+#: inc/widgets/tabs-widget.php:207
+msgid "Popular Posts"
+msgstr "Beliebte Beiträge"
+
+#: inc/widgets/tabs-widget.php:192 inc/widgets/tabs-widget.php:200
+#: inc/widgets/tabs-widget.php:208
+msgid "Recent Posts"
+msgstr "Letzte Beiträge"
+
+#: inc/widgets/tabs-widget.php:197
+msgid "Second Tab Content"
+msgstr "Inhalt der zweiten Registerkarte"
+
+#: inc/widgets/tabs-widget.php:205
+msgid "Third Tab Content"
+msgstr "Inhalt der dritten Registerkarte"
+
+#: inc/widgets/tabs-widget.php:213
+msgid "Number of items to show:"
+msgstr "Anzahl der zu zeigenden Artikel:"
+
+#: woocommerce/global/form-login.php:34
+msgid "Username or email"
+msgstr "Benutzername oder E-Mail"
+
+#: woocommerce/global/form-login.php:38
+msgid "Password"
+msgstr "Passwort"
+
+#: woocommerce/global/form-login.php:47
+msgid "Login"
+msgstr "Anmelden"
+
+#: woocommerce/global/form-login.php:53
+msgid "Remember me"
+msgstr "Angemeldet bleiben"
+
+#: woocommerce/global/form-login.php:57
+msgid "Lost your password?"
+msgstr "Passwort vergessen?"
+
+#: woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr "Ähnliche Produkte"
+
+#: woocommerce/single-product/up-sells.php:43
+msgid "You may also like&hellip;"
+msgstr "Das könnte Ihnen auch gefallen&hellip;"
+
+#. Theme Name of the plugin/theme
+msgid "MedicalPress"
+msgstr "MedicalPress"
+
+#. Theme URI of the plugin/theme
+msgid ""
+"http://themeforest.net/item/medicalpress-health-and-medical-wordpress-"
+"theme/7789703"
+msgstr ""
+"http://themeforest.net/item/medicalpress-health-and-medical-wordpress-"
+"theme/7789703"
+
+#. Description of the plugin/theme
+msgid ""
+"A premium theme for health and medical related websites. It has various "
+"features that are suitable for doctors, dentists, surgeons, hospitals, "
+"health clinics and other types of health and medical related institutions."
+msgstr ""
+"Ein Premium-Thema für gesundheitsbezogene und medizinisch relevante "
+"Websites. Es hat verschiedene Eigenschaften, die für Ärzte, Zahnärzte, "
+"Chirurgen, Krankenhäuser, Gesundheitskliniken und andere Arten von "
+"Gesundheits- und medizinisch relevanten Einrichtungen geeignet sind."
+
+#. Author of the plugin/theme
+msgid "Inspiry Themes"
+msgstr "Konzept & Layout"
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/InspiryThemes"
+msgstr "http://themeforest.net/user/InspiryThemes"

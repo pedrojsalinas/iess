@@ -1,0 +1,60 @@
+
+---Downloaded files---
+The import files for: Reborn were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordpress
+Data file = /var/www/html/wordpress/wp-content/themes/inspiry-medicalpress/inc/demo-import/reborn/content.xml
+Widget file = /var/www/html/wordpress/wp-content/themes/inspiry-medicalpress/inc/demo-import/reborn/widgets.wie
+Customizer file = /var/www/html/wordpress/wp-content/themes/inspiry-medicalpress/inc/demo-import/reborn/inspiry-customizer.dat
+Redux files:
+redux_demo -> /var/www/html/wordpress/wp-content/themes/inspiry-medicalpress/inc/demo-import/reborn/theme_options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Barra lateral por defecto : 
+
+MedicalPress Tabs - No Title - Widget already exists
+Categorías - No Title - Imported
+Nube de etiquetas - No Title - Imported
+
+Página de Detalle de Servicio : 
+
+Buscar - No Title - Imported
+Categorías - No Title - Imported
+Nube de etiquetas - No Title - Imported
+
+Columna de primer pie de página : 
+
+Texto - About MedicalPress - Imported
+
+Columna de segundo pie de página : 
+
+Entradas recientes - No Title - Imported
+
+Columna de tercer pie de página : 
+
+inspiry_posts_widget - Popular Blog Post - Site does not support widget
+
+Columna de cuarto pie de página : 
+
+Categorías - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: redux_demo finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

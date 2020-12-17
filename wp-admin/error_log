@@ -1,0 +1,72 @@
+[26-Dec-2018 18:19:47 UTC] PHP Warning:  Error while sending QUERY packet. PID=757248 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[04-Jan-2019 23:50:37 UTC] PHP Warning:  Error while sending QUERY packet. PID=1804511 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[04-Jan-2019 23:50:37 UTC] PHP Warning:  Error while sending QUERY packet. PID=1804571 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[04-Jan-2019 23:50:43 UTC] PHP Warning:  Error while sending QUERY packet. PID=1805130 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[04-Jan-2019 23:50:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=1804626 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[04-Jan-2019 23:52:55 UTC] PHP Warning:  Error while sending QUERY packet. PID=1811879 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[04-Jan-2019 23:52:55 UTC] PHP Warning:  Error while sending QUERY packet. PID=1811927 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[04-Jan-2019 23:55:28 UTC] PHP Warning:  Error while sending QUERY packet. PID=1819407 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[04-Jan-2019 23:55:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=1819464 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[04-Jan-2019 23:55:38 UTC] PHP Warning:  Error while sending QUERY packet. PID=1820995 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 17:52:38 UTC] PHP Warning:  Error while sending QUERY packet. PID=597750 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 17:52:38 UTC] PHP Warning:  Error while sending QUERY packet. PID=597908 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 17:52:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=598977 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 17:52:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=599356 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 17:56:49 UTC] PHP Warning:  Error while sending QUERY packet. PID=611661 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 17:56:49 UTC] PHP Warning:  Error while sending QUERY packet. PID=611749 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 17:56:50 UTC] PHP Warning:  Error while sending QUERY packet. PID=612448 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:06:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=647683 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:06:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=647889 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:06:29 UTC] PHP Warning:  Error while sending QUERY packet. PID=650323 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:11:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=664178 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:11:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=664364 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:11:29 UTC] PHP Warning:  Error while sending QUERY packet. PID=665026 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:11:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=666443 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:11:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=667036 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:11:31 UTC] PHP Warning:  Error while sending QUERY packet. PID=667236 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:12:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/solnuste/iess.solnustec.com/wp-content/themes/inspiry-medicalpress/inc/theme-options/medical-config.php on line 30
+[05-Jan-2019 18:14:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=674206 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:14:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=674297 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:19:32 UTC] PHP Warning:  Error while sending QUERY packet. PID=698920 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:19:32 UTC] PHP Warning:  Error while sending QUERY packet. PID=699022 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:19:33 UTC] PHP Warning:  Error while sending QUERY packet. PID=700293 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:19:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=700088 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:19:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=699962 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:21:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=699962 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:21:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=701053 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:21:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=699715 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:21:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=700846 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:21:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=700423 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[05-Jan-2019 18:21:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=704355 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[07-Jan-2019 21:45:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=1956493 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[07-Jan-2019 21:45:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=1956511 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[07-Jan-2019 22:16:28 UTC] PHP Warning:  Error while sending QUERY packet. PID=2050867 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[07-Jan-2019 22:16:29 UTC] PHP Warning:  Error while sending QUERY packet. PID=2050949 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[07-Jan-2019 22:16:29 UTC] PHP Warning:  Error while sending QUERY packet. PID=2055650 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[07-Jan-2019 22:29:04 UTC] PHP Warning:  Error while sending QUERY packet. PID=2093102 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[07-Jan-2019 22:29:04 UTC] PHP Warning:  Error while sending QUERY packet. PID=2093125 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[07-Jan-2019 22:29:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=2094612 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[07-Jan-2019 22:42:01 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No secret provided' in /home/solnuste/iess.solnustec.com/wp-content/themes/inspiry-medicalpress/inc/recaptcha/ReCaptcha/ReCaptcha.php:62
+Stack trace:
+#0 /home/solnuste/iess.solnustec.com/wp-content/themes/inspiry-medicalpress/inc/functions/recaptcha.php(118): ReCaptcha\ReCaptcha->__construct('', Object(ReCaptcha\RequestMethod\CurlPost))
+#1 /home/solnuste/iess.solnustec.com/wp-content/themes/inspiry-medicalpress/inc/functions/contact_form_handler.php(27): inspiry_verify_google_recaptcha()
+#2 [internal function]: send_message('')
+#3 /home/solnuste/iess.solnustec.com/wp-includes/class-wp-hook.php(286): call_user_func_array('send_message', Array)
+#4 /home/solnuste/iess.solnustec.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home/solnuste/iess.solnustec.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /home/solnuste/iess.solnustec.com/wp-admin/admin-ajax.php(114): do_action('wp_ajax_nopriv_...')
+#7 {main}
+  thrown in /home/solnuste/iess.solnustec.com/wp-content/themes/inspiry-medicalpress/inc/recaptcha/ReCaptcha/ReCaptcha.php on line 62
+[11-Jan-2019 16:22:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=1640091 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[11-Jan-2019 16:22:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=1640113 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[11-Jan-2019 16:22:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=1640164 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[11-Jan-2019 16:24:47 UTC] PHP Warning:  Error while sending QUERY packet. PID=1651920 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[11-Jan-2019 16:24:47 UTC] PHP Warning:  Error while sending QUERY packet. PID=1652026 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[11-Jan-2019 16:24:48 UTC] PHP Warning:  Error while sending QUERY packet. PID=1653008 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[11-Jan-2019 16:24:49 UTC] PHP Warning:  Error while sending QUERY packet. PID=1652102 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[22-Jan-2019 16:17:03 UTC] PHP Warning:  Error while sending QUERY packet. PID=3587798 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[22-Jan-2019 16:17:03 UTC] PHP Warning:  Error while sending QUERY packet. PID=3587891 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[22-Jan-2019 16:17:04 UTC] PHP Warning:  Error while sending QUERY packet. PID=3590494 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[22-Jan-2019 16:19:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=3599769 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[22-Jan-2019 16:19:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=3599794 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924
+[22-Jan-2019 16:19:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=3600855 in /home/solnuste/iess.solnustec.com/wp-includes/wp-db.php on line 1924

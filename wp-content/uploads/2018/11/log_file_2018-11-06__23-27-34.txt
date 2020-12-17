@@ -1,0 +1,73 @@
+
+---Downloaded files---
+The import files for: Default were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordpress
+Data file = /var/www/html/wordpress/wp-content/themes/inspiry-medicalpress/inc/demo-import/default/content.xml
+Widget file = /var/www/html/wordpress/wp-content/themes/inspiry-medicalpress/inc/demo-import/default/widgets.wie
+Customizer file = /var/www/html/wordpress/wp-content/themes/inspiry-medicalpress/inc/demo-import/default/inspiry-customizer.dat
+Redux files:
+redux_demo -> /var/www/html/wordpress/wp-content/themes/inspiry-medicalpress/inc/demo-import/default/theme_options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+orphaned_widgets_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Buscar - No Title - Widget already exists
+Entradas recientes - No Title - Widget already exists
+Comentarios recientes - No Title - Widget already exists
+Archivos - No Title - Widget already exists
+Categorías - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Barra lateral por defecto : 
+
+MedicalPress Tabs - No Title - Imported
+Categorías - Categories - Imported
+Nube de etiquetas - Tags - Imported
+
+Columna de primer pie de página : 
+
+Texto - About MedicalPress - Imported
+
+Columna de segundo pie de página : 
+
+Categorías - Categories - Imported
+
+Columna de tercer pie de página : 
+
+Entradas recientes - Recent Posts - Imported
+
+Columna de cuarto pie de página : 
+
+Nube de etiquetas - Tags - Imported
+
+Página de Detalle de Servicio : 
+
+Buscar - Search - Imported
+Categorías - Categories - Imported
+Nube de etiquetas - Departments - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: redux_demo finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

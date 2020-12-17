@@ -1,0 +1,17 @@
+.home-doctors{
+  padding-bottom: 7rem;
+
+  .btn-wrapper{
+    margin-top: 3rem;
+  }
+
+  .btn{
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+
+  .overlay {
+    background-image: url("../../../common/images/doctor-interface-symbol.png");
+    background-color: $mp-theme-color-one;
+  }
+}
